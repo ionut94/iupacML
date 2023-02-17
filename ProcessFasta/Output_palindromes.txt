@@ -1,0 +1,212 @@
+gb:MT797634|Organism:Human coronavirus 229E|Strain Name:HK20-42|Segment:null|Host:Human
+Number of palindromes found = 10
+Max palindrome size = 16
+['aagtaccttatctatct', 'ttcgttgaaaagataga']
+28       agaaaagttg       37
+         |||||||| |
+64       tcttttcatc       55
+
+ACCTTATCTATCTACAGATAGAAAAGTTG...TACTTTTCTCAACTAAACGAAATTTTTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5        aagtaccttatctatct       21
+         ||| | ||| |||||||
+40       ttcgttgaaaagataga       24
+
+ACTTAAGTACCTTATCTATCT...GATAGAAAAGTTGCTTTTTAGACTTTGTGTCTACTT
+Accuracy = 14 / 17 = 0.8235294117647058
+ 
+-------------------------------------- 
+ 
+30       aaaagttgctttt       42
+         |||| || | |||
+82       tttttaaagcaaa       70
+
+CTTATCTATCTACAGATAGAAAAGTTGCTTTT...AACGAAATTTTTGCTATGGCCGGCATCTTTGA
+Accuracy = 10 / 13 = 0.7692307692307693
+ 
+-------------------------------------- 
+ 
+30       aaaagttgcttt       41
+         |||| ||  |||
+81       ttttaaagcaaa       70
+
+CTTATCTATCTACAGATAGAAAAGTTGCTTT...AACGAAATTTTTGCTATGGCCGGCATCTTTG
+Accuracy = 9 / 12 = 0.75
+ 
+-------------------------------------- 
+ 
+28       agaaaagttgc       38
+         |  |||| |||
+103      tagtttctacg       93
+
+ACCTTATCTATCTACAGATAGAAAAGTTGC...CATCTTTGATGCTAGAGTCGTAGTGTAATT
+Accuracy = 8 / 11 = 0.7272727272727273
+ 
+-------------------------------------- 
+ 
+26       atagaaaagtt       36
+         |||| |||  |
+87       tatcgttttta       77
+
+GTACCTTATCTATCTACAGATAGAAAAGTT...TTTTTGCTATGGCCGGCATCTTTGATGCTA
+Accuracy = 8 / 11 = 0.7272727272727273
+ 
+-------------------------------------- 
+ 
+55       ctacttttct       64
+         ||||   |||
+116      gatgctgaga      107
+
+TGCTTTTTAGACTTTGTGTCTACTTTTCT...GAGTCGTAGTGTAATTGAAATTTCATTTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+5        aagtacctta       14
+         || |||  ||
+123      ttaatgtgat      114
+
+ACTTAAGTACCTTA...AGTGTAATTGAAATTTCATTTGGGTTGCA
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+42       ttagactttg       51
+         ||| |||  |
+121      aatgtgatgc      112
+
+CAGATAGAAAAGTTGCTTTTTAGACTTTG...GTAGTGTAATTGAAATTTCATTTGGGTTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+15       tctatctaca       24
+         |||| |  ||
+109      agatcgtagt      100
+
+ACTTAAGTACCTTATCTATCTACA...GATGCTAGAGTCGTAGTGTAATTGAAATT
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+
+gb:MT008022|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI1|Segment:null|Host:Human
+Number of palindromes found = 6
+Max palindrome size = 10
+['acagaataaat', 'tttcttcgtta']
+30       acagaataaat       40
+         | ||||  |||
+117      tttcttcgtta      107
+
+TTTGTGCTTGCTGCTGTTTACAGAATAAAT...TTGCTTCTTTCAGACTGTTTGCGCGTACGC
+Accuracy = 8 / 11 = 0.7272727272727273
+ 
+-------------------------------------- 
+ 
+30       acagaataaa       39
+         ||||  | ||
+125      tgtcagactt      116
+
+TTTGTGCTTGCTGCTGTTTACAGAATAAA...TCAGACTGTTTGCGCGTACGCGTTCCATG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+29       tacagaataa       38
+         ||||  | ||
+82       atgttctgtt       73
+
+TTTTGTGCTTGCTGCTGTTTACAGAATAA...TGTCTTGTAGGCTTGATGTGGCTCAGCTA
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+18       ttgctgctgt       27
+         ||  | ||||
+39       aaataagaca       30
+
+TTTAGCTTGTTTTGTGCTTGCTGCTGT...CAGAATAAATTGGATCACCGGTGGAATTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+12       ttgtgcttgc       21
+         ||| | | ||
+68       aacgctatcg       59
+
+TTTAGCTTGTTTTGTGCTTGC...CTATCGCAATGGCTTGTCTTGTAGGCTTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+1        tttagcttgt       10
+         ||||   |||
+39       aaataagaca       30
+
+TTTAGCTTGT...CAGAATAAATTGGATCACCGGTGGAATTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+
+gb:MT008023|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI2|Segment:null|Host:Human
+Number of palindromes found = 1
+Max palindrome size = 9
+['tttagcttgt', 'aaataagaca']
+30       acagaataaat       40
+         | ||||  |||
+117      tttcttcgtta      107
+
+TTTGTGCTTGCTGCTGTTTACAGAATAAAT...TTGCTTCTTTCAGACTGTTTGCGCGTACGC
+Accuracy = 8 / 11 = 0.7272727272727273
+ 
+-------------------------------------- 
+ 
+30       acagaataaa       39
+         ||||  | ||
+125      tgtcagactt      116
+
+TTTGTGCTTGCTGCTGTTTACAGAATAAA...TCAGACTGTTTGCGCGTACGCGTTCCATG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+29       tacagaataa       38
+         ||||  | ||
+82       atgttctgtt       73
+
+TTTTGTGCTTGCTGCTGTTTACAGAATAA...TGTCTTGTAGGCTTGATGTGGCTCAGCTA
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+18       ttgctgctgt       27
+         ||  | ||||
+39       aaataagaca       30
+
+TTTAGCTTGTTTTGTGCTTGCTGCTGT...CAGAATAAATTGGATCACCGGTGGAATTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+12       ttgtgcttgc       21
+         ||| | | ||
+68       aacgctatcg       59
+
+TTTAGCTTGTTTTGTGCTTGC...CTATCGCAATGGCTTGTCTTGTAGGCTTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 
+1        tttagcttgt       10
+         ||||   |||
+39       aaataagaca       30
+
+TTTAGCTTGT...CAGAATAAATTGGATCACCGGTGGAATTG
+Accuracy = 7 / 10 = 0.7
+ 
+-------------------------------------- 
+ 

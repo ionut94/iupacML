@@ -1,0 +1,656 @@
+Palindromes of: 1seq.fasta
+Sequence name: gb:MN988669|Organism:Severe
+Sequence length is: 29881
+Start at position: 1
+End at position: 29881
+Minimum length of Palindromes is: 10
+Maximum length of Palindromes is: 10000
+Maximum gap between elements is: 100
+Number of mismatches allowed in Palindrome: 1
+
+
+
+Palindromes:
+630      tcttcgtaag      639
+         ||||| ||||
+731      agaagtattc      722
+
+860      agtgcattaa      869
+         ||||||| ||
+906      tcacgtactt      897
+
+1112     ctattcaacc     1121
+         || |||||||
+1134     gaaaagttgg     1125
+
+1123     agggttgaaa     1132
+         || |||||||
+1223     tctcaacttt     1214
+
+1224     catgaagtgt     1233
+         |||||||| |
+1256     gtacttcaaa     1247
+
+1636     aaagtcaaca     1645
+         ||||||| ||
+1665     tttcagtggt     1656
+
+1708     gcttccacaa     1717
+         | ||||||||
+1733     caaaggtgtt     1724
+
+2212     aaatttatct     2221
+         |||||||| |
+2319     tttaaataaa     2310
+
+2298     ctttaagctt     2307
+         ||||||| ||
+2368     gaaattcaaa     2359
+
+2324     ctttgtgtgc     2333
+         ||||| ||||
+2406     gaaactcacg     2397
+
+2667     ccttgcacct     2676
+         |||||||| |
+2768     ggaacgtgaa     2759
+
+3480     aggagcctta     3489
+         || |||||||
+3501     tcatcggaat     3492
+
+3602     actgtcttca     3611
+         | ||||||||
+3648     ttacagaagt     3639
+
+3681     tcagcacgaa     3690
+         ||||||| ||
+3734     agtcgtggtt     3725
+
+3705     attattatca     3714
+         ||| ||||||
+3807     taaaaatagt     3798
+
+3909     aactgaaagt     3918
+         ||||||| ||
+3930     ttgacttcca     3921
+
+3990     tctggaagaa     3999
+         |||||| |||
+4061     agacctactt     4052
+
+4181     ctggtggcact     4191
+         ||| |||||||
+4231     gacaaccgtga     4221
+
+4241     taaccactta     4250
+         |||||| |||
+4274     attggtaaat     4265
+
+4307     agtgtaaaag     4316
+         | ||||||||
+4329     ttacattttc     4320
+
+4384     aatttgcgag     4393
+         |||||||| |
+4427     ttaaacgcac     4418
+
+4441     gtggaaacta     4450
+         || |||||||
+4466     caactttgat     4457
+
+4638     tttggaagaag     4648
+         ||| |||||||
+4749     aaatcttcttc     4739
+
+4843     tttcttaaga     4852
+         | ||||||||
+4938     acagaattct     4929
+
+4852     agaggtgataa     4862
+         | |||||||||
+4923     tttccactatt     4913
+
+4937     cacttctttc     4946
+         ||||||| ||
+4959     gtgaagagag     4950
+
+5106     aggtaaaacat     5116
+         |||||||||||
+5130     tccattttgta     5120
+
+5130     taatgatgaca     5140
+         ||||| |||||
+5214     attacgactgt     5204
+
+5357     cttattacag     5366
+         ||||||||||
+5424     gaataatgtc     5415
+
+5744     acactggtaa     5753
+         ||||||||||
+5763     tgtgaccatt     5754
+
+5793     aactttgtatt     5803
+         | |||||||||
+5847     tggaaacataa     5837
+
+5903     ttacttataa     5912
+         || |||||||
+5970     aaagaatatt     5961
+
+6042     taattttaag     6051
+         ||| ||||||
+6136     attgaaattc     6127
+
+6268     acgtataaacca     6279
+         ||||||| ||||
+6297     tgcatatgtggt     6286
+
+6452     agtgtaatgt     6461
+         ||| ||||||
+6494     tcatattaca     6485
+
+6563     tagacaattc     6572
+         |||| |||||
+6607     atctattaag     6598
+
+6580     actattaaga     6589
+         |||||||| |
+6660     tgataattgt     6651
+
+6651     tgttaatagt     6660
+         ||||| ||||
+6730     acaatcatca     6721
+
+6656     atagtgtccc     6665
+         ||||| ||||
+6677     tatcataggg     6668
+
+6802     tgtactttta     6811
+         ||||||| ||
+6822     acatgaagat     6813
+
+7330     gtacatttta     7339
+         ||||||| ||
+7416     catgtaagat     7407
+
+7469     acggttgtaa     7478
+         ||| ||||||
+7509     tgcaaacatt     7500
+
+7653     atttattagt     7662
+         ||||||| ||
+7710     taaataacca     7701
+
+7677     agacttgtca     7686
+         ||||| ||||
+7725     tctgaccagt     7716
+
+7718     accagtcttc     7727
+         |||| |||||
+7761     tggtaagaag     7752
+
+7819     tctcattttg     7828
+         || |||||||
+7913     agtgtaaaac     7904
+
+7853     ataacactaa     7862
+         |||||| |||
+7886     tattgtaatt     7877
+
+8044     tacgttaata     8053
+         |||||||| |
+8076     atgcaatttt     8067
+
+8858     tcgtgcctgg     8867
+         ||||||| ||
+8881     agcacggtcc     8872
+
+9320     gtggtgtaga     9329
+         |||||||| |
+9364     caccacattt     9355
+
+9324     tgtagatgctg     9334
+         | |||||||||
+9405     atatctacgac     9395
+
+9544     ttaacaccag     9553
+         | ||||||||
+9578     atttgtggtc     9569
+
+9546     aacaccagtt     9555
+         |||||||| |
+9576     ttgtggtcca     9567
+
+9612     tactaatgat     9621
+         ||| ||||||
+9706     atgtttacta     9697
+
+10456    actattaagg    10465
+         || |||||||
+10482    tggtaattcc    10473
+
+10478    atggttcatgt    10488
+         ||||| |||||
+10545    taccacgtaca    10535
+
+10756    atgaagtaca    10765
+         |||||| |||
+10855    tacttcgtgt    10846
+
+10870    caaaatggta    10879
+         ||| ||||||
+10899    gttataccat    10890
+
+10970    aaagtgcagt    10979
+         |||||| |||
+11038    tttcacttca    11029
+
+10981    aaaagaacaa    10990
+         ||||||||||
+11077    ttttcttgtt    11068
+
+11401    aatgtcttga    11410
+         |||| |||||
+11457    ttaccgaact    11448
+
+11487    ttctaactac    11496
+         || |||||||
+11512    aacattgatg    11503
+
+11753    cacccaagaat    11763
+         ||||||| |||
+11803    gtgggttgtta    11793
+
+11867    catcagtagt    11876
+         | ||||||||
+11983    gaagtcatca    11974
+
+11869    tcagtagtct    11878
+         |||||||| |
+11981    agtcatcata    11972
+
+11879    tactctcagtt    11889
+         |||||| ||||
+11907    atgagactcaa    11897
+
+12385    gataatgatg    12394
+         ||||||| ||
+12411    ctattacaac    12402
+
+13218    agaatccttt    13227
+         | ||||||||
+13291    ttttaggaaa    13282
+
+13220    aatcctttgg    13229
+         |||||||| |
+13289    ttaggaaatc    13280
+
+13422    ccgcgaaccc    13431
+         |||| |||||
+13477    ggcgtttggg    13468
+
+13634    aattgattctt    13644
+         ||||| |||||
+13697    ttaacaaagaa    13687
+
+13647    tttgtagtta    13656
+         || |||||||
+13682    aaccatcaat    13673
+
+13752    agaatagacg    13761
+         || |||||||
+13829    tcgtatctgc    13820
+
+13757    agacggtgac    13766
+         ||||| ||||
+13795    tctgcaactg    13786
+
+14220    ttaacaaagcc    14230
+         |||||||| ||
+14253    aattgtttagg    14243
+
+14486    agagctaggt    14495
+         ||||||| ||
+14531    tctcgataca    14522
+
+14860    aagttgttga    14869
+         | ||||||||
+14932    tccaacaact    14923
+
+14984    ttatgattca    14993
+         ||| ||||||
+15073    aattctaagt    15064
+
+15142    atagacagttt    15152
+         ||| |||||||
+15257    tatttgtcaaa    15247
+
+15458    atatgttaaa    15467
+         | ||||||||
+15528    tttacaattt    15519
+
+15481    catcaggagat    15491
+         |||||| ||||
+15573    gtagtcatcta    15563
+
+15520    ttaacatttg    15529
+         |||||||| |
+15553    aattgtaacc    15544
+
+15580    aaattgccga    15589
+         ||||||| ||
+15607    tttaacgcct    15598
+
+15673    tttacgcata    15682
+         |||||||| |
+15692    aaatgcgttt    15683
+
+15774    ataaagaact    15783
+         ||||||||||
+15800    tatttcttga    15791
+
+15915    tatgtgtacc    15924
+         || |||||||
+16002    attcacatgg    15993
+
+15918    gtgtaccttc    15927
+         ||||||| ||
+15999    cacatggtag    15990
+
+16261    attcacagac    16270
+         ||| ||||||
+16373    taattgtctg    16364
+
+16457    acataaacca    16466
+         | ||||||||
+16514    tatatttggt    16505
+
+16520    tacatgtgtt    16529
+         |||| |||||
+16614    atgtccacaa    16605
+
+16778    ctttactggtt    16788
+         |||||||| ||
+16812    gaaatgacaaa    16802
+
+17140    ctcgcatagtg    17150
+         ||| |||||||
+17192    gagtgtatcac    17182
+
+17144    catagtgtat    17153
+         ||||||| ||
+17188    gtatcacgta    17179
+
+17538    gacatgttcc    17547
+         |||| |||||
+17559    ctgttcaagg    17550
+
+17897    ctcttgtaat    17906
+         |||| |||||
+17937    gagaccatta    17928
+
+18118    tcagtgttga    18127
+         ||||| ||||
+18145    agtcaaaact    18136
+
+18337    ctgttggtac    18346
+         |||| |||||
+18405    gacatccatg    18396
+
+18360    cagctaggtt    18369
+         || |||||||
+18393    gttgatccaa    18384
+
+18668    tgatagacgt    18677
+         | ||||||||
+18751    aatatctgca    18742
+
+18937    gtgatgaactg    18947
+         |||| ||||||
+19028    cacttcttgac    19018
+
+18953    taatgcggctt    18963
+         |||||| ||||
+19001    attacgtcgaa    18991
+
+19124    aatagaagaa    19133
+         ||||||| ||
+19143    ttatcttatt    19134
+
+19300    taaataaaca    19309
+         ||||| ||||
+19355    atttaattgt    19346
+
+19448    tgctacgtgt    19457
+         ||| ||||||
+19470    acgttgcaca    19461
+
+19494    catcatgcta    19503
+         ||||||| ||
+19541    gtagtacaat    19532
+
+19771    ttaatgtagc    19780
+         ||||||| ||
+19810    aattacaacg    19801
+
+20048    tacagaaggt    20057
+         |||||| |||
+20084    atgtctacca    20075
+
+20152    attataagaaa    20162
+         ||| |||||||
+20265    taagattcttt    20255
+
+20224    aatttaaacc    20233
+         |||||| |||
+20299    ttaaatatgg    20290
+
+20507    tttattactt    20516
+         ||||||| ||
+20539    aaataataaa    20530
+
+21035    cattattagt    21044
+         |||| |||||
+21072    gtaaaaatca    21063
+
+21130    aacaaaagct    21139
+         |||||| |||
+21239    ttgtttccga    21230
+
+21161    tataaagataa    21171
+         ||||||||| |
+21201    atatttctagt    21191
+
+21216    ttcgcatggt    21225
+         ||||| ||||
+21308    aagcgcacca    21299
+
+21273    ttaattggat    21282
+         | ||||||||
+21370    acttaaccta    21361
+
+21275    aattggatgt    21284
+         |||||||| |
+21368    ttaacctaaa    21359
+
+21351    aggaatacaa    21360
+         ||||| ||||
+21381    tccttctgtt    21372
+
+21386    tttatttgac    21395
+         || |||||||
+21460    aactaaactg    21451
+
+21406    ttccccttaa    21415
+         | ||||||||
+21426    atggggaatt    21417
+
+21936    tgttgttatt    21945
+         ||||||| ||
+22009    acaacaaaaa    22000
+
+22494    aatctatcaa    22503
+         |||||| |||
+22547    ttagattgtt    22538
+
+22556    ttacaaactt    22565
+         ||| ||||||
+22589    aatttttgaa    22580
+
+22630    agaatcagcaac    22641
+         | ||||||||||
+22656    tattagtcgttg    22645
+
+22758    atttgtaatta    22768
+         |||| ||||||
+22834    taaatattaat    22824
+
+22818    tgattataatta    22829
+         | ||||||||||
+22913    attaatattaat    22902
+
+22824    taattataaat    22834
+         ||||||||| |
+22913    attaatattaa    22903
+
+23127    aactgtttgt    23136
+         |||| |||||
+23237    ttgaaaaaca    23228
+
+23270    ctgacactac    23279
+         ||||||| ||
+23348    gactgtggtg    23339
+
+23578    agttatcaga    23587
+         |||||| |||
+23692    tcaataatct    23683
+
+23613    acgtagtgtag    23623
+         || ||||||||
+23653    tgtatcacatc    23643
+
+23705    ccacaaattt    23714
+         |||||||| |
+23792    ggtgtttaca    23783
+
+23858    ctttaactgg    23867
+         |||||| |||
+23947    gaaattaacc    23938
+
+23931    aacaccaccaa    23941
+         || ||||||||
+23961    ttttggtggtt    23951
+
+23955    tggttttaat    23964
+         ||||||| ||
+23997    accaaaacta    23988
+
+24114    tgcacaaaag    24123
+         ||||| ||||
+24231    acgtggtttc    24222
+
+24163    gaaatgattg    24172
+         ||| ||||||
+24212    cttcactaac    24203
+
+24244    caaataccatt    24254
+         | |||||||||
+24290    ggttatggtaa    24280
+
+24322    aaattgattg    24331
+         |||||| |||
+24342    tttaaccaac    24333
+
+24405    tcaagatgtg    24414
+         |||||| |||
+24515    agttctgcac    24506
+
+24934    aactgtgatgttg    24946
+         ||||||| |||||
+24972    ttgacacaacaac    24960
+
+24973    tatgatcctt    24982
+         |||||| |||
+25039    atactaagaa    25030
+
+25379    cataaacgaa    25388
+         ||||||| ||
+25406    gtatttgttt    25397
+
+25598    gcaactagca    25607
+         ||||| ||||
+25684    cgttgctcgt    25675
+
+26031    ctgtactcaact    26042
+         |||||||||| |
+26055    gacatgagttaa    26044
+
+26065    ttgaacatgtt    26075
+         ||| |||||||
+26126    aacctgtacaa    26116
+
+26083    tcatctacaat    26093
+         ||||| |||||
+26107    agtagttgtta    26097
+
+26137    tcgacggttcatc    26149
+         ||| |||||||||
+26196    agcagccaagtag    26184
+
+26531    tccaacggta    26540
+         | ||||||||
+26554    aagttgccat    26545
+
+26533    caacggtact    26542
+         |||||||| |
+26552    gttgccatta    26543
+
+27250    ttattatgagg    27260
+         | |||||||||
+27312    attaatactcc    27302
+
+27330    ctaactgagaata    27342
+         |||| ||||||||
+27357    gattaactcttat    27345
+
+27665    ggaagttcaa    27674
+         | ||||||||
+27768    ctttcaagtt    27759
+
+27762    aactttcatta    27772
+         || ||||||||
+27875    ttcaaagtaat    27865
+
+27817    tttaattatg    27826
+         ||| ||||||
+27872    aaagtaatac    27863
+
+27828    ttattatctt    27837
+         |||| |||||
+27867    aatactagaa    27858
+
+28210    agactttttag    28220
+         |||| ||||||
+28278    tctgtaaaatc    28268
+
+28797    gagcagaggc    28806
+         ||| ||||||
+28825    ctcttctccg    28816
+
+28868    caggcagcag    28877
+         || |||||||
+28945    gttcgtcgtc    28936
+
+28944    tgacagattg    28953
+         |||||| |||
+29011    actgtcaaac    29002
+
+29025    tgctgaggcttct    29037
+         ||| |||||||||
+29051    acggctccgaaga    29039
+
+
+
+

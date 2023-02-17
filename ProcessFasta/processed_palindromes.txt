@@ -1,0 +1,5115 @@
+gb:MT797634|Organism:Human coronavirus 229E|Strain Name:HK20-42|Segment:null|Host:Human
+Number of palindromes found = 122
+Max palindrome size = 13
+['agttgttgaacagt', 'tcaaaaacttgtca']
+25002    gacaatgtca    25011
+         ||||||||||
+25038    ctgttacagt    25029
+
+ATTGATTTCTAAACTAAACGACAATGTCA...GACATTGTCACCCATTTGAAGAATTGGAA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+14183    tagctactatg    14193
+         |||||||||||
+14239    atcgatgatac    14229
+
+GTGGGTGGCGTCTCTTTATTAGCTACTATG...ATAGTAGCTACCAGAAATGCCACTGTTGTT
+Accuracy = 11 / 11 = 1.0
+ 
+-------------------------------------- 
+ 
+12543    gggctctagt    12552
+         ||||||||||
+12570    cccgagatca    12561
+
+AGTTATTTAAACGAGTCAGGGGCTCTAGT...CTAGAGCCCTGTAATGGTACAGACATAGA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+23743    agttgttgaacagt    23756
+         |||| |||||||||
+23841    tcaaaaacttgtca    23828
+
+ATTACACTGTTCCAGACCTAGTTGTTGAACAGT...CTGTTCAAAAACTGCAAACTTTGATCGACAACA
+Accuracy = 13 / 14 = 0.9285714285714286
+ 
+-------------------------------------- 
+ 
+12719    ttaagtcagttat    12731
+         |||||| ||||||
+12764    aattcattcaata    12752
+
+TATATTGTTAAACGTTGCATTAAGTCAGTTAT...TAACTTACTTAAAGGCTGTAATGCTGTTGCTA
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+12500    actgctatccaaa    12512
+         ||||||||| |||
+12526    tgacgatagtttt    12514
+
+TGGCTGTACATGTGACCGGACTGCTATCCAAA...TTTGATAGCAGTTATTTAAACGAGTCAGGGGC
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+6293     acgaaactactg     6304
+         || |||||||||
+6338     tgttttgatgac     6327
+
+GTGGCTGCTTGCTAAGTTTACGAAACTACTG...AGTAGTTTTGTTTTGTGTACGTTTTGGACCG
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+2530     acaacagggttt     2541
+         ||||||| ||||
+2622     tgttgtcacaaa     2611
+
+CGTTGAAGTTAAATCTCACACAACAGGGTTT...AACACTGTTGTTTCTACTGTTAAAATTGGTG
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+24649    ctcagcctttct    24660
+         |||| |||||||
+24672    gagttggaaaga    24661
+
+AGGACGTATTGATAAAGACCTCAGCCTTTCT...GAAAGGTTGAGTTATATAACGGTGAATGTGT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+23164    tcaggctatcta    23175
+         |||| |||||||
+23222    agtcggatagat    23211
+
+AAGCCATTTCTAGCTCTATTCAGGCTATCTA...AGATAGGCTGATTACTGGTAGATTGGCTGCT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+20431    tttaattgcaaa    20442
+         |||||||||| |
+20471    aaattaacgtgt    20460
+
+TGTTTTAGACCTGAGTAAATTTAATTGCAAA...GTGCAATTAAAGGATAGTGATATTAATGACA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+18662    ttgttaataaag    18673
+         ||||||| ||||
+18773    aacaattgtttc    18762
+
+GAGAATATTGCTTTTAACGTTGTTAATAAAG...TTTGTTAACAAAACATCACTGCCTACAAATA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+8722     tctagtaacaa     8732
+         ||||||| |||
+8770     agatcatcgtt     8760
+
+CTTACATTGTAACTCAGAATCTAGTAACAA...TGCTACTAGAAGCTTACGCTATGCATGGAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+7473     ttaacaacttt     7483
+         |||||||| ||
+7566     aattgttggaa     7556
+
+TTGTTATCTGATTTGTCATTTAACAACTTT...AGGTTGTTAATGCCAATGTTCTGACAAAGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+747      cttacgtttgt      757
+         || ||||||||
+799      gactgcaaaca      789
+
+ATTGTCATCAATGGTCATACTTACGTTTGT...CAAACGTCAGAACAACCTCGCCATTGAAGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+70       aaacgaaattt       80
+         ||| |||||||
+135      tttactttaaa      125
+
+GTGTCTACTTTTCTCAACTAAACGAAATTT...AATTTCATTTGGGTTGCAACAGTTTGGAAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4978     cacacgtaagt     4988
+         ||||| |||||
+5006     gtgtgtattca     4996
+
+ATAATAATGTTCAACGATGCACACGTAAGT...CTTATGTGTGATATAGTTTGTACTATACCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4569     cagacacagaa     4579
+         |||||||| ||
+4607     gtctgtgtttt     4597
+
+GTTAAAGTTTTTGTTTATACAGACACAGAA...TTTGTGTCTGGTTTAGTGAATGTTCAAAAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4462     tttaacaccaa     4472
+         ||| |||||||
+4501     aaactgtggtt     4491
+
+ATAACGAACAAGGCACACCTTTAACACCAA...TGGTGTCAAACTCGAAACTTCATTGGAAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+3757     ttatggtactt     3767
+         ||||||||| |
+3824     aataccatgga     3814
+
+CCACTAAGAAGGCGTTTCCTTATGGTACTT...GGTACCATAATATTTGTGCAACAAAAACCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27041    cacaatggtaa    27051
+         |||||| ||||
+27133    gtgttaacatt    27123
+
+ACAAGGATCTAGTCTTATACACAATGGTAA...TACAATTGTGCTGGAGTAATCAAAGATCGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26505    ttgaccacaac    26515
+         ||| |||||||
+26541    aaccggtgttg    26531
+
+TGTTTTGGCCCCAGAGACCTTGACCACAAC...TTGTGGCCAATGGTGTTAAAGCTAAAGGCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25778    ttgcttgttga    25788
+         || ||||||||
+25843    aaagaacaact    25833
+
+TTATTCTCTTTATAGCCCTTTGCTTGTTGA...CAACAAGAAAGACAAAAATAAGCTTATAGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+2562     gttttaaacgt     2572
+         |||||||| ||
+2658     caaaatttcca     2648
+
+CTTGGAACATGTGCAAAGCGTTTTAAACGT...CCTTTAAAACATATGCTTTTGATAAAACTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25527    cactactataa    25537
+         | |||||||||
+25549    gagatgatatt    25539
+
+TGACAGTTGCCGTGCCTAGCACTACTATAA...TATAGTAGAGTCGGAAGGTCCGTAAATTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25401    tcaacaagctc    25411
+         |||||||| ||
+25438    agttgttccag    25428
+
+AGACATACTATCAACCCATTCAACAAGCTC...ACCTTGTTGAGCGGCGTGCTTTACGTTGAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25076    ttctaaccata    25086
+         ||| |||||||
+25145    aagtttggtat    25135
+
+AATTTTGGTTGGAATGTTATTCTAACCATA...ATGGTTTGAAGATGCTTGTACTGTGGCTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24266    attttgcttta    24276
+         || ||||||||
+24289    tagaacgaaat    24279
+
+ATGAGCCTCTTTGTTGTGTATTTTGCTTTA...AAAGCAAGATCACACCGTGGTAGATCTGCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24014    tttagttgttt    24024
+         |||||||| ||
+24061    aaatcaactaa    24051
+
+TACTGGTTGCTGCGGCTTCTTTAGTTGTTT...ATCAACTAAACTTCCTTATTACGACGTTGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23782    cagtgaaatta    23792
+         ||||| |||||
+23831    gtcacattaat    23821
+
+AGACTATTTTGAATTTGACCAGTGAAATTA...AATTACACTGTTCAAAAACTGCAAACTTTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23776    tttgaccagtg    23786
+         ||||| |||||
+23837    aaacttgtcac    23827
+
+ACAACCAGACTATTTTGAATTTGACCAGTG...ACTGTTCAAAAACTGCAAACTTTGATCGAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22205    tgcacagacgc    22215
+         |||||| ||||
+22249    acgtgtttgcg    22239
+
+GTCCAATGGCACTTATAATTGCACAGACGC...CGTTTGTGCAGATGGTTCTATAATTGCTGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22164    aaatgccaaaa    22174
+         ||| |||||||
+22244    tttgcggtttt    22234
+
+GGCTTTTCTAATGTTGTAGAAATGCCAAAA...TTTGGCGTTTGTGCAGATGGTTCTATAATT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+21896    aatgttacatt    21906
+         ||||||| |||
+21931    ttacaatataa    21921
+
+GGGTGTTAGTTCCTTTATGAATGTTACATT...ATATAACATTTATGATGTATCTGGTGTGGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+20906    ttttattcaaa    20916
+         |||| ||||||
+20961    aaaagaagttt    20951
+
+GAGAGGTGCTTGTAAAGGTTTTTATTCAAA...TTGAAGAAAACCTTAGACGTGGAACCATTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+19461    aacactcaaat    19471
+         |||| ||||||
+19581    ttgtcagttta    19571
+
+TTGTGGCAGCATCTGACATAACACTCAAAT...TTTGACTGTTGTATCCAAGGTTCATGAGGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18282    tacattgaacc    18292
+         |||| ||||||
+18320    atgttacttgg    18310
+
+TTGACACACGTACACGATCTACATTGAACC...GTTCATTGTATGTCAATAACCATGCATTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+1753     tgacaaggttt     1763
+         ||||||| |||
+1805     actgttcaaaa     1795
+
+CTATTGCCGGTAAAGCATTTGACAAGGTTT...AAACTTGTCACCACAAAGCTTAAGGGTGTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16285    acacgtattat    16295
+         ||||||||| |
+16363    tgtgcataaca    16353
+
+CTATAGTGTTGATAAGTGTACACGTATTAT...CAATACGTGTTTAGTACTGTTAATGCGTTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16269    tagtgttgata    16279
+         |||||||| ||
+16348    atcacaacaat    16338
+
+CAAAAGCTGTCACAGCCTATAGTGTTGATA...AACAACACTAGTGCACAATACGTGTTTAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14591    ctgtaagttct    14601
+         |||||| ||||
+14667    gacattgaaga    14657
+
+GTCTTTAATATATTTCAGGCTGTAAGTTCT...GAAGTTACAGAGACAACTCTATGATAATTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14136    catatctggta    14146
+         ||| |||||||
+14248    gtaaagaccat    14238
+
+AGTTAAATCTTAAATATGCCATATCTGGTA...ACCAGAAATGCCACTGTTGTTATCGGCACT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11       cttatctatct       21
+         ||| |||||||
+34       gaaaagataga       24
+
+ACTTAAGTACCTTATCTATCT...GATAGAAAAGTTGCTTTTTAGACTTTGTGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+10762    ctggattaaca    10772
+         ||||| |||||
+10820    gacctgattgt    10810
+
+TGTACTATGGTTTGTTGTACTGGATTAACA...GTTAGTCCAGCCGAATTTAAGTATATGGTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+1006     gtttattagtg     1016
+         |||||||| ||
+1109     caaataatgac     1099
+
+AGGCCTTTACTAAACCTGTGTTTATTAGTG...AGTAATAAACTGTGTGTTGTGCCTGGTAAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+9688     tcaaattgaa     9697
+         |||| |||||
+9780     agttgaactt     9771
+
+TGGAATTTGTTTATATGCATCAAATTGAA...TCAAGTTGAATCTGCAAACCAGATGTTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9538     catcttagca     9547
+         |||| |||||
+9557     gtagtatcgt     9548
+
+AATCTGGTGAAGGTTTTAACATCTTAGCA...GCTATGATGGTTGTGCTCAGGGTGTTTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+901      tagtaaagtt      910
+         | ||||||||
+942      aacatttcaa      933
+
+CTAAGGAAGTGAAGACATCTAGTAAAGTT...ACTTTACAAAGTCTTTGGTTCTCCTGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+899      tctagtaaag      908
+         | ||||||||
+1000     aaatcatttc      991
+
+GGCTAAGGAAGTGAAGACATCTAGTAAAG...TTTACTAAACCTGTGTTTATTAGTGCATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8926     tgacaaattt     8935
+         |||||||| |
+8975     actgtttaca     8966
+
+CGACAAATCTTTTCGAAGGTGACAAATTT...CATTTGTCATTGACATTCGTTCTTATGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8908     gacaaatctt     8917
+         ||||||| ||
+8974     ctgtttacaa     8965
+
+TGCTGAAGCTTAAAGTTTCGACAAATCTT...ACATTTGTCATTGACATTCGTTCTTATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8875     tttgttacct     8884
+         ||||| ||||
+8932     aaacagtgga     8923
+
+TTCTTGCTATGTTGACAGGTTTGTTACCT...GGTGACAAATTTGTAGGTACATTTGAAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8707     cattgtaact     8716
+         |||||| |||
+8734     gtaacaatga     8725
+
+TGCTTAACAATGTCTCTTACATTGTAACT...GTAACAATGATTGCTTATGCCATATTGTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8141     tgttatgaca     8150
+         |||||| |||
+8243     acaatattgt     8234
+
+TTTTGGTAATGCTGGTGTTTGTTATGACA...GTTATAACACAGAGCTTATGGAAGGTTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7942     tgtcagaaac     7951
+         | ||||||||
+8045     aaagtctttg     8036
+
+TTGAAGCGCCACTTAAATGTGTCAGAAAC...TTTCTGAAATTGTTAATACTGTCGCTGGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7935     ttaaatgtgt     7944
+         ||||| ||||
+8006     aatttccaca     7997
+
+AAGAATTTTGAAGCGCCACTTAAATGTGT...CACCTTTAAACAAGCAAAGCTGTCCTATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+732      tcatcaatgg      741
+         || |||||||
+819      agaagttacc      810
+
+GGTGAGAACGAAGAAATTGTCATCAATGG...CATTGAAGAGATTGAATACGTGCATGGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7242     ccattaaatt     7251
+         |||||||| |
+7296     ggtaatttta     7287
+
+TCACAGTTGTTGTGTAGGCCCATTAAATT...TTTTAATGGTGTCTTACACAAGGCATACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7087     ttacaacttt     7096
+         |||||| |||
+7146     aatgttaaaa     7137
+
+CCGGTGAAACATTTTGGCGTTACAACTTT...AAATTGTAATGTTTTGGATGATTTCATCG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+703      tgaccatttc      712
+         |||| |||||
+734      actgttaaag      725
+
+AAGATTTATGGCAGTTTGTTGACCATTTC...AAATTGTCATCAATGGTCATACTTACGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+572      tcaaattacc      581
+         ||| ||||||
+632      agtgtaatgg      623
+
+GTGGTTGGTTTTTTCCAATTCAAATTACC...GTAATGTGACATACACTGACCAGTATCTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5456     tttatttcac     5465
+         |||||| |||
+5491     aaataaggtg     5482
+
+ACAGTATTTGAAACCTCATTTTATTTCAC...TGGAATAAATTTGTTTTAGGCGATGTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5269     taaagcaata     5278
+         |||||| |||
+5309     atttcggtat     5300
+
+ACACATCTGAATTGCTTACTAAAGCAATA...ATGGCTTTAAAGATGCTGTTACTTTTGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4201     ctttattgta     4210
+         ||||| ||||
+4277     gaaatcacat     4268
+
+TTAATGGTGTTGACTTTGACTTTATTGTA...ACACTAAAGGTAAACTTCAACGTTTATCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4004     cttaatacta     4013
+         |||||||| |
+4024     gaattatgtt     4015
+
+GCCCTGGACAAATGATGCACTTAATACTA...TGTATTAAGGATGCAGATTATAATGCAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3431     aatggtttaa     3440
+         ||| ||||||
+3456     ttaacaaatt     3447
+
+AATGCCATTTGAAGAGTTAAATGGTTTAA...TAAACAATTGGATAACAACTGCTGGGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3356     aatagcattt     3365
+         ||| ||||||
+3420     ttaccgtaaa     3411
+
+TGACCAAGTTGAAGAAGTCAATAGCATTT...AATGCCATTTGAAGAGTTAAATGGTTTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3289     tgttcaacaa     3298
+         || |||||||
+3342     accagttgtt     3333
+
+AGTCAGATAAGGAAGAAGATGTTCAACAA...TGTTGACCAAGTTGAAGAAGTCAATAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3288     atgttcaaca     3297
+         ||||| ||||
+3394     tacaaattgt     3385
+
+GAGTCAGATAAGGAAGAAGATGTTCAACA...GTTAAACATGAGATGAGTCCTTTTGAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3262     tctttttgag     3271
+         |||| |||||
+3309     agaacaactc     3300
+
+TTATGATTTCTGAATGGCCTCTTTTTGAG...TCAACAAGAAGCTACTCATATTGCTGAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2991     tttcattttc     3000
+         |||||| |||
+3071     aaagtagaag     3062
+
+AAAGCCGCTGGTGGTAAAGTTTCATTTTC...AAGATGAAAAACTTGTAGATGTTTGTGAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28       agaaaagttg       37
+         |||||||| |
+64       tcttttcatc       55
+
+ACCTTATCTATCTACAGATAGAAAAGTTG...TACTTTTCTCAACTAAACGAAATTTTTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2700     tgtgtaaggt     2709
+         |||||| |||
+2817     acacatccca     2808
+
+ATTGTGATACGTGATATCGTGTGTAAGGT...CCCTACACATTTTGACATTGAAGAAGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26790    aaacttcacc    26799
+         |||||||| |
+26831    tttgaagtag    26822
+
+CTAGAATTCAACCCATCCCAAACTTCACC...ATGAAGTTTCTATTGAAACTGACATAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25478    gtgttcaggt    25487
+         || |||||||
+25506    cataagtcca    25497
+
+GGACATAGATTGGCTTCAGGTGTTCAGGT...CCTGAATACATGACAGTTGCCGTGCCTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25361    ctgtcacaac    25370
+         ||||| ||||
+25383    gacagggttg    25374
+
+CCTGAGGTTAATGCAATCACTGTCACAAC...TTGGGACAGACATACTATCAACCCATTCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25062    tggttggaat    25071
+         ||||| ||||
+25084    accaatctta    25075
+
+ATTTGAAGAATTGGAATTTTGGTTGGAAT...TTCTAACCATATTCATTGTTATTCTTCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25024    acgggtgaca    25033
+         | ||||||||
+25044    tacccactgt    25035
+
+AATGTCAAACGACAATTGTACGGGTGACA...GTCACCCATTTGAAGAATTGGAATTTTGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24847    tattacaata    24856
+         |||||||| |
+24902    ataatgtttt    24893
+
+TAGTGATACTACTAGTGTGTATTACAATA...TTTGTAATAGAACAGTTTATGGCCCCATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24845    tgtattacaa    24854
+         | ||||||||
+24904    agataatgtt    24895
+
+TATAGTGATACTACTAGTGTGTATTACAA...TGTAATAGAACAGTTTATGGCCCCATTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23723    aattacactg    23732
+         |||| |||||
+23791    ttaaagtgac    23782
+
+ATTAAGTTACAAATTGCCAAATTACACTG...AGTGAAATTAGCACCCTTGAAAATAAATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23631    ttgttaacat    23640
+         || |||||||
+23691    aataattgta    23682
+
+GAAAATTGCAATGTCACATTTGTTAACAT...TGTTAATAAGACGCTGCAAGAATTAAGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22793    gccgctgatg    22802
+         || |||||||
+22872    cgccgactac    22863
+
+CATTATGGTTTTGCCTGGCGCCGCTGATG...ATCAGCCGCTTCAATACCATTTTCATTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22561    tgctaatgtt    22570
+         |||||| |||
+22598    acgattccaa    22589
+
+ACAAGAAAGCGTTTACACTTGCTAATGTT...ACCTTAGCAGTGTTATACCTAGCTTGCCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22441    attgcttaag    22450
+         ||| ||||||
+22495    taaagaattc    22486
+
+GTAATGTGCGCTGTGTTGAATTGCTTAAG...TTAAGAAATAGCGCCATGCTGGAGTCTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22145    ggcttttcta    22154
+         ||| ||||||
+22170    ccgtaaagat    22161
+
+TGAAAACTTTACTAGTTACGGCTTTTCTA...AGAAATGCCAAAATTTTTCTATGCGTCCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22082    cagcttgttg    22091
+         ||||||| ||
+22106    gtcgaacgac    22097
+
+TCCCTGTAACCCACCAGATCAGCTTGTTG...AGCAAGCTGTTGTTGGTGCTATGTTGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21893    atgaatgtta    21902
+         || |||||||
+21934    tatttacaat    21925
+
+TGAGGGTGTTAGTTCCTTTATGAATGTTA...AACATTTATGATGTATCTGGTGTGGGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21191    attaatggct    21200
+         ||||| ||||
+21238    taattgccga    21229
+
+ACGCACAGGACATTTTTATATTAATGGCT...GCCGTTAATTTCAATGTCACTAATGCTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21138    cactacctaa    21147
+         || |||||||
+21224    gtaatggatt    21215
+
+ACGTCTGCTTTTGTGGGTGCACTACCTAA...TAGGTAATGTAGAAGCCGTTAATTTCAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20349    cataatacat    20358
+         || |||||||
+20375    gttttatgta    20366
+
+GACCTTTTATAGATGGTAACATAATACAT...TGTATTTTGGCGTAACTCCACTGTTATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19913    caccaggaac    19922
+         |||||| |||
+20017    gtggtcattg    20008
+
+GGCTCTGATTATGGTGTTGCACCAGGAAC...TTACTGGTGATTGTGCAACCGTTTATTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19528    gatttgttgt    19537
+         | ||||||||
+19619    ccaaacaaca    19610
+
+GACTGTTTGTACTTACATGGATTTGTTGT...CAACAAACCATGGAGATGGATGCTATGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19364    aaactactct    19373
+         ||||| ||||
+19443    tttgaggaga    19434
+
+GTGTATGGTGATGTTTCAAAAACTACTCT...GAGGAGTTTGTGGCAGCATCTGACATAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19274    actttttgaa    19283
+         | ||||||||
+19368    tcaaaaactt    19359
+
+CGCAGCACAATGGAAGAAGACTTTTTGAA...TCAAAAACTACTCTAGGCGGTTTACACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18931    aagtctgttt    18940
+         |||||||| |
+18956    ttcagacata    18947
+
+TCCCTTGACAAGCTTTACTAAGTCTGTTT...TACAGACTTTGCAGAAGATGTTTGTACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18929    ctaagtctgt    18938
+         | ||||||||
+18958    gtttcagaca    18949
+
+CGTCCCTTGACAAGCTTTACTAAGTCTGT...CAGACTTTGCAGAAGATGTTTGTACTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18698    aattaccagt    18707
+         ||||| ||||
+18757    ttaatagtca    18748
+
+TTTGTTGGTGCTGACGGTGAATTACCAGT...CTGATAATTTAGTCTTTGTTAACAAAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17154    tacttatttg    17163
+         ||| ||||||
+17215    atggataaac    17206
+
+TACCACCAAGTCATGCCACTACTTATTTG...AAATAGGTAACAACAATGTTTGTACCTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16961    gtaatgccaa    16970
+         |||||| |||
+16991    cattaccgtt    16982
+
+TCAGATACTGCTCATGCCTGTAATGCCAA...TGCCATTACTAGAGCAAAGAAAGGTATTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16754    gtataaatag    16763
+         |||||||| |
+16795    catatttagc    16786
+
+CAGGTAGACAATGGCTCTAGTATAAATAG...GATTTATACATAAAAACTCCACATGGAGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16631    ctgaaatagt    16640
+         |||||| |||
+16654    gactttgtca    16645
+
+AAGTGTTACAGATGTCCTGCTGAAATAGT...CTGTTTCAGAGCTTGTTTATGAAAACAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16389    agttaatgca    16398
+         ||||| ||||
+16438    tcaatcacgt    16429
+
+CTGTTAATGCGTTACCTGAAGTTAATGCA...GCACTAACTATGACTTGTCTGTGATTAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16206    cgtgttcact    16215
+         ||||| ||||
+16289    gcacatgtga    16280
+
+ATTACCCTGGAGCGAGGATCGTGTTCACT...GTGTACACGTATTATTCCTGCACGTGCCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15779    ttttgctttt    15788
+         ||| ||||||
+15810    aaaccgaaaa    15801
+
+ATTGTAGGTCCTAAGGAACTTTTGCTTTT...AAAGCCAAACCACCGTTAAACCGTAATTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15515    acaaaccaca    15524
+         |||||||| |
+15568    tgtttggttt    15559
+
+AATTATTACTGTGTAGACCACAAACCACA...TTGGTTTGTACAAAAGTTCTGCTTTGGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15380    cctatgatca    15389
+         | ||||||||
+15411    gaatactagt    15402
+
+ATGTTGTGCACTAAGTGCGCCTATGATCA...GATCATAAGTTCATTTTAGCTATTACACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15169    aacaagactc    15178
+         || |||||||
+15205    tttttctgag    15196
+
+AGATTGGGTTAAACATCTCAACAAGACTC...AGTCTTTTTCTGTTACACTTTTAGATGAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14769    ttctgatgat    14778
+         ||||||| ||
+14864    aagactatta    14855
+
+ATTTTTCTATGATGATTCTTTCTGATGAT...TTATCAGAATGGTGTGTTTATGAGTACAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1425     tcatagacat     1434
+         ||||| ||||
+1461     agtatttgta     1452
+
+AGACAAGTTGCTTCAGGTGTCATAGACAT...TGTTTATGATGACATCTTTGCTGAAAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1393     tagtaatgtc     1402
+         || |||||||
+1439     atgattacag     1430
+
+TGTTGGGTGCTGAAATGACTAGTAATGTC...ACATTAGTACCGGCTGGTTTGATGTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13803    attgaagcat    13812
+         |||| |||||
+13844    taacgtcgta    13835
+
+ATGAGGGTTCAGAATTAACATTGAAGCAT...TGCTGCAATTAAAGATTTTGATTATTATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13679    gtttttctgt    13688
+         ||||| ||||
+13729    caaaatgaca    13720
+
+GTGGACAAACGCACTGTTTGTTTTTCTGT...CAGTAAAACCTGGCCATTTTAATAAGGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13609    ttacagtttg    13618
+         |||| |||||
+13726    aatgacaaac    13717
+
+ACTTACTATTACTGAACTCTTACAGTTTG...AAACAGTAAAACCTGGCCATTTTAATAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13034    tagtcgcaaa    13043
+         | ||||||||
+13076    agcagcgttt    13067
+
+TATGCTGCTTTAGGCAAGGTAGTCGCAAA...TTGCGACGAAATGGTGCTCAAAGGAGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12617    acaataaaga    12626
+         |||||| |||
+12707    tgttatatct    12698
+
+GTCCGTGCATTTGACGTTTACAATAAAGA...CTATATTGTTAAACGTTGCATTAAGTCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12480    atggctgtac    12489
+         ||| ||||||
+12587    tacagacatg    12578
+
+TGTGGTTGTTGGCTTAATCATGGCTGTAC...TACAGACATAGATTACTGTGTCCGTGCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11369    attaacagaa    11378
+         |||||||| |
+11428    taattgtcgt    11419
+
+GTCATCTGTTCAAAAGAAAATTAACAGAA...GCTGTTAATAGAAAATCAAAAGTTGTAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11267    gctgttgcaa    11276
+         ||| ||||||
+11334    cgaaaacgtt    11325
+
+AAGACAAGAGTATGAAAATGCTGTTGCAA...TGCAAAAGCTGAGTTTGACAGGGAGTCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11239    tgaaacagca    11248
+         || |||||||
+11275    acgttgtcgt    11266
+
+TGCCATCTTTTGTTGCATATGAAACAGCA...GCTGTTGCAAATGGTTCCTCACCACAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10596    caatttctaa    10605
+         ||| ||||||
+10641    gtttaagatt    10632
+
+CTGGTTATGCTACTTTGTGCAATTTCTAA...TAGAATTTGTCGTTTTGGTGTTGCATTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10100    aacctgcaaa    10109
+         |||| |||||
+10157    ttggtcgttt    10148
+
+CAAACAAATGTTTGGTGTTAACCTGCAAA...TTGCTGGTTTCTTTGTCATGTTCTGGGCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+
+gb:MT008022|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI1|Segment:null|Host:Human
+Number of palindromes found = 0
+Max palindrome size = 0
+[]
+
+gb:MT008023|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI2|Segment:null|Host:Human
+Number of palindromes found = 0
+Max palindrome size = 0
+[]
+
+gb:MT797634|Organism:Human coronavirus 229E|Strain Name:HK20-42|Segment:null|Host:Human
+Number of palindromes found = 122
+Max palindrome size = 13
+['agttgttgaacagt', 'tcaaaaacttgtca']
+25002    gacaatgtca    25011
+         ||||||||||
+25038    ctgttacagt    25029
+
+ATTGATTTCTAAACTAAACGACAATGTCA...GACATTGTCACCCATTTGAAGAATTGGAA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+14183    tagctactatg    14193
+         |||||||||||
+14239    atcgatgatac    14229
+
+GTGGGTGGCGTCTCTTTATTAGCTACTATG...ATAGTAGCTACCAGAAATGCCACTGTTGTT
+Accuracy = 11 / 11 = 1.0
+ 
+-------------------------------------- 
+ 
+12543    gggctctagt    12552
+         ||||||||||
+12570    cccgagatca    12561
+
+AGTTATTTAAACGAGTCAGGGGCTCTAGT...CTAGAGCCCTGTAATGGTACAGACATAGA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+23743    agttgttgaacagt    23756
+         |||| |||||||||
+23841    tcaaaaacttgtca    23828
+
+ATTACACTGTTCCAGACCTAGTTGTTGAACAGT...CTGTTCAAAAACTGCAAACTTTGATCGACAACA
+Accuracy = 13 / 14 = 0.9285714285714286
+ 
+-------------------------------------- 
+ 
+12719    ttaagtcagttat    12731
+         |||||| ||||||
+12764    aattcattcaata    12752
+
+TATATTGTTAAACGTTGCATTAAGTCAGTTAT...TAACTTACTTAAAGGCTGTAATGCTGTTGCTA
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+12500    actgctatccaaa    12512
+         ||||||||| |||
+12526    tgacgatagtttt    12514
+
+TGGCTGTACATGTGACCGGACTGCTATCCAAA...TTTGATAGCAGTTATTTAAACGAGTCAGGGGC
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+6293     acgaaactactg     6304
+         || |||||||||
+6338     tgttttgatgac     6327
+
+GTGGCTGCTTGCTAAGTTTACGAAACTACTG...AGTAGTTTTGTTTTGTGTACGTTTTGGACCG
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+2530     acaacagggttt     2541
+         ||||||| ||||
+2622     tgttgtcacaaa     2611
+
+CGTTGAAGTTAAATCTCACACAACAGGGTTT...AACACTGTTGTTTCTACTGTTAAAATTGGTG
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+24649    ctcagcctttct    24660
+         |||| |||||||
+24672    gagttggaaaga    24661
+
+AGGACGTATTGATAAAGACCTCAGCCTTTCT...GAAAGGTTGAGTTATATAACGGTGAATGTGT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+23164    tcaggctatcta    23175
+         |||| |||||||
+23222    agtcggatagat    23211
+
+AAGCCATTTCTAGCTCTATTCAGGCTATCTA...AGATAGGCTGATTACTGGTAGATTGGCTGCT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+20431    tttaattgcaaa    20442
+         |||||||||| |
+20471    aaattaacgtgt    20460
+
+TGTTTTAGACCTGAGTAAATTTAATTGCAAA...GTGCAATTAAAGGATAGTGATATTAATGACA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+18662    ttgttaataaag    18673
+         ||||||| ||||
+18773    aacaattgtttc    18762
+
+GAGAATATTGCTTTTAACGTTGTTAATAAAG...TTTGTTAACAAAACATCACTGCCTACAAATA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+8722     tctagtaacaa     8732
+         ||||||| |||
+8770     agatcatcgtt     8760
+
+CTTACATTGTAACTCAGAATCTAGTAACAA...TGCTACTAGAAGCTTACGCTATGCATGGAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+7473     ttaacaacttt     7483
+         |||||||| ||
+7566     aattgttggaa     7556
+
+TTGTTATCTGATTTGTCATTTAACAACTTT...AGGTTGTTAATGCCAATGTTCTGACAAAGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+747      cttacgtttgt      757
+         || ||||||||
+799      gactgcaaaca      789
+
+ATTGTCATCAATGGTCATACTTACGTTTGT...CAAACGTCAGAACAACCTCGCCATTGAAGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+70       aaacgaaattt       80
+         ||| |||||||
+135      tttactttaaa      125
+
+GTGTCTACTTTTCTCAACTAAACGAAATTT...AATTTCATTTGGGTTGCAACAGTTTGGAAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4978     cacacgtaagt     4988
+         ||||| |||||
+5006     gtgtgtattca     4996
+
+ATAATAATGTTCAACGATGCACACGTAAGT...CTTATGTGTGATATAGTTTGTACTATACCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4569     cagacacagaa     4579
+         |||||||| ||
+4607     gtctgtgtttt     4597
+
+GTTAAAGTTTTTGTTTATACAGACACAGAA...TTTGTGTCTGGTTTAGTGAATGTTCAAAAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4462     tttaacaccaa     4472
+         ||| |||||||
+4501     aaactgtggtt     4491
+
+ATAACGAACAAGGCACACCTTTAACACCAA...TGGTGTCAAACTCGAAACTTCATTGGAAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+3757     ttatggtactt     3767
+         ||||||||| |
+3824     aataccatgga     3814
+
+CCACTAAGAAGGCGTTTCCTTATGGTACTT...GGTACCATAATATTTGTGCAACAAAAACCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27041    cacaatggtaa    27051
+         |||||| ||||
+27133    gtgttaacatt    27123
+
+ACAAGGATCTAGTCTTATACACAATGGTAA...TACAATTGTGCTGGAGTAATCAAAGATCGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26505    ttgaccacaac    26515
+         ||| |||||||
+26541    aaccggtgttg    26531
+
+TGTTTTGGCCCCAGAGACCTTGACCACAAC...TTGTGGCCAATGGTGTTAAAGCTAAAGGCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25778    ttgcttgttga    25788
+         || ||||||||
+25843    aaagaacaact    25833
+
+TTATTCTCTTTATAGCCCTTTGCTTGTTGA...CAACAAGAAAGACAAAAATAAGCTTATAGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+2562     gttttaaacgt     2572
+         |||||||| ||
+2658     caaaatttcca     2648
+
+CTTGGAACATGTGCAAAGCGTTTTAAACGT...CCTTTAAAACATATGCTTTTGATAAAACTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25527    cactactataa    25537
+         | |||||||||
+25549    gagatgatatt    25539
+
+TGACAGTTGCCGTGCCTAGCACTACTATAA...TATAGTAGAGTCGGAAGGTCCGTAAATTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25401    tcaacaagctc    25411
+         |||||||| ||
+25438    agttgttccag    25428
+
+AGACATACTATCAACCCATTCAACAAGCTC...ACCTTGTTGAGCGGCGTGCTTTACGTTGAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+25076    ttctaaccata    25086
+         ||| |||||||
+25145    aagtttggtat    25135
+
+AATTTTGGTTGGAATGTTATTCTAACCATA...ATGGTTTGAAGATGCTTGTACTGTGGCTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24266    attttgcttta    24276
+         || ||||||||
+24289    tagaacgaaat    24279
+
+ATGAGCCTCTTTGTTGTGTATTTTGCTTTA...AAAGCAAGATCACACCGTGGTAGATCTGCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24014    tttagttgttt    24024
+         |||||||| ||
+24061    aaatcaactaa    24051
+
+TACTGGTTGCTGCGGCTTCTTTAGTTGTTT...ATCAACTAAACTTCCTTATTACGACGTTGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23782    cagtgaaatta    23792
+         ||||| |||||
+23831    gtcacattaat    23821
+
+AGACTATTTTGAATTTGACCAGTGAAATTA...AATTACACTGTTCAAAAACTGCAAACTTTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23776    tttgaccagtg    23786
+         ||||| |||||
+23837    aaacttgtcac    23827
+
+ACAACCAGACTATTTTGAATTTGACCAGTG...ACTGTTCAAAAACTGCAAACTTTGATCGAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22205    tgcacagacgc    22215
+         |||||| ||||
+22249    acgtgtttgcg    22239
+
+GTCCAATGGCACTTATAATTGCACAGACGC...CGTTTGTGCAGATGGTTCTATAATTGCTGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22164    aaatgccaaaa    22174
+         ||| |||||||
+22244    tttgcggtttt    22234
+
+GGCTTTTCTAATGTTGTAGAAATGCCAAAA...TTTGGCGTTTGTGCAGATGGTTCTATAATT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+21896    aatgttacatt    21906
+         ||||||| |||
+21931    ttacaatataa    21921
+
+GGGTGTTAGTTCCTTTATGAATGTTACATT...ATATAACATTTATGATGTATCTGGTGTGGG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+20906    ttttattcaaa    20916
+         |||| ||||||
+20961    aaaagaagttt    20951
+
+GAGAGGTGCTTGTAAAGGTTTTTATTCAAA...TTGAAGAAAACCTTAGACGTGGAACCATTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+19461    aacactcaaat    19471
+         |||| ||||||
+19581    ttgtcagttta    19571
+
+TTGTGGCAGCATCTGACATAACACTCAAAT...TTTGACTGTTGTATCCAAGGTTCATGAGGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18282    tacattgaacc    18292
+         |||| ||||||
+18320    atgttacttgg    18310
+
+TTGACACACGTACACGATCTACATTGAACC...GTTCATTGTATGTCAATAACCATGCATTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+1753     tgacaaggttt     1763
+         ||||||| |||
+1805     actgttcaaaa     1795
+
+CTATTGCCGGTAAAGCATTTGACAAGGTTT...AAACTTGTCACCACAAAGCTTAAGGGTGTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16285    acacgtattat    16295
+         ||||||||| |
+16363    tgtgcataaca    16353
+
+CTATAGTGTTGATAAGTGTACACGTATTAT...CAATACGTGTTTAGTACTGTTAATGCGTTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16269    tagtgttgata    16279
+         |||||||| ||
+16348    atcacaacaat    16338
+
+CAAAAGCTGTCACAGCCTATAGTGTTGATA...AACAACACTAGTGCACAATACGTGTTTAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14591    ctgtaagttct    14601
+         |||||| ||||
+14667    gacattgaaga    14657
+
+GTCTTTAATATATTTCAGGCTGTAAGTTCT...GAAGTTACAGAGACAACTCTATGATAATTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14136    catatctggta    14146
+         ||| |||||||
+14248    gtaaagaccat    14238
+
+AGTTAAATCTTAAATATGCCATATCTGGTA...ACCAGAAATGCCACTGTTGTTATCGGCACT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11       cttatctatct       21
+         ||| |||||||
+34       gaaaagataga       24
+
+ACTTAAGTACCTTATCTATCT...GATAGAAAAGTTGCTTTTTAGACTTTGTGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+10762    ctggattaaca    10772
+         ||||| |||||
+10820    gacctgattgt    10810
+
+TGTACTATGGTTTGTTGTACTGGATTAACA...GTTAGTCCAGCCGAATTTAAGTATATGGTT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+1006     gtttattagtg     1016
+         |||||||| ||
+1109     caaataatgac     1099
+
+AGGCCTTTACTAAACCTGTGTTTATTAGTG...AGTAATAAACTGTGTGTTGTGCCTGGTAAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+9688     tcaaattgaa     9697
+         |||| |||||
+9780     agttgaactt     9771
+
+TGGAATTTGTTTATATGCATCAAATTGAA...TCAAGTTGAATCTGCAAACCAGATGTTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9538     catcttagca     9547
+         |||| |||||
+9557     gtagtatcgt     9548
+
+AATCTGGTGAAGGTTTTAACATCTTAGCA...GCTATGATGGTTGTGCTCAGGGTGTTTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+901      tagtaaagtt      910
+         | ||||||||
+942      aacatttcaa      933
+
+CTAAGGAAGTGAAGACATCTAGTAAAGTT...ACTTTACAAAGTCTTTGGTTCTCCTGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+899      tctagtaaag      908
+         | ||||||||
+1000     aaatcatttc      991
+
+GGCTAAGGAAGTGAAGACATCTAGTAAAG...TTTACTAAACCTGTGTTTATTAGTGCATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8926     tgacaaattt     8935
+         |||||||| |
+8975     actgtttaca     8966
+
+CGACAAATCTTTTCGAAGGTGACAAATTT...CATTTGTCATTGACATTCGTTCTTATGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8908     gacaaatctt     8917
+         ||||||| ||
+8974     ctgtttacaa     8965
+
+TGCTGAAGCTTAAAGTTTCGACAAATCTT...ACATTTGTCATTGACATTCGTTCTTATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8875     tttgttacct     8884
+         ||||| ||||
+8932     aaacagtgga     8923
+
+TTCTTGCTATGTTGACAGGTTTGTTACCT...GGTGACAAATTTGTAGGTACATTTGAAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8707     cattgtaact     8716
+         |||||| |||
+8734     gtaacaatga     8725
+
+TGCTTAACAATGTCTCTTACATTGTAACT...GTAACAATGATTGCTTATGCCATATTGTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8141     tgttatgaca     8150
+         |||||| |||
+8243     acaatattgt     8234
+
+TTTTGGTAATGCTGGTGTTTGTTATGACA...GTTATAACACAGAGCTTATGGAAGGTTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7942     tgtcagaaac     7951
+         | ||||||||
+8045     aaagtctttg     8036
+
+TTGAAGCGCCACTTAAATGTGTCAGAAAC...TTTCTGAAATTGTTAATACTGTCGCTGGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7935     ttaaatgtgt     7944
+         ||||| ||||
+8006     aatttccaca     7997
+
+AAGAATTTTGAAGCGCCACTTAAATGTGT...CACCTTTAAACAAGCAAAGCTGTCCTATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+732      tcatcaatgg      741
+         || |||||||
+819      agaagttacc      810
+
+GGTGAGAACGAAGAAATTGTCATCAATGG...CATTGAAGAGATTGAATACGTGCATGGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7242     ccattaaatt     7251
+         |||||||| |
+7296     ggtaatttta     7287
+
+TCACAGTTGTTGTGTAGGCCCATTAAATT...TTTTAATGGTGTCTTACACAAGGCATACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7087     ttacaacttt     7096
+         |||||| |||
+7146     aatgttaaaa     7137
+
+CCGGTGAAACATTTTGGCGTTACAACTTT...AAATTGTAATGTTTTGGATGATTTCATCG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+703      tgaccatttc      712
+         |||| |||||
+734      actgttaaag      725
+
+AAGATTTATGGCAGTTTGTTGACCATTTC...AAATTGTCATCAATGGTCATACTTACGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+572      tcaaattacc      581
+         ||| ||||||
+632      agtgtaatgg      623
+
+GTGGTTGGTTTTTTCCAATTCAAATTACC...GTAATGTGACATACACTGACCAGTATCTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5456     tttatttcac     5465
+         |||||| |||
+5491     aaataaggtg     5482
+
+ACAGTATTTGAAACCTCATTTTATTTCAC...TGGAATAAATTTGTTTTAGGCGATGTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5269     taaagcaata     5278
+         |||||| |||
+5309     atttcggtat     5300
+
+ACACATCTGAATTGCTTACTAAAGCAATA...ATGGCTTTAAAGATGCTGTTACTTTTGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4201     ctttattgta     4210
+         ||||| ||||
+4277     gaaatcacat     4268
+
+TTAATGGTGTTGACTTTGACTTTATTGTA...ACACTAAAGGTAAACTTCAACGTTTATCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4004     cttaatacta     4013
+         |||||||| |
+4024     gaattatgtt     4015
+
+GCCCTGGACAAATGATGCACTTAATACTA...TGTATTAAGGATGCAGATTATAATGCAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3431     aatggtttaa     3440
+         ||| ||||||
+3456     ttaacaaatt     3447
+
+AATGCCATTTGAAGAGTTAAATGGTTTAA...TAAACAATTGGATAACAACTGCTGGGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3356     aatagcattt     3365
+         ||| ||||||
+3420     ttaccgtaaa     3411
+
+TGACCAAGTTGAAGAAGTCAATAGCATTT...AATGCCATTTGAAGAGTTAAATGGTTTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3289     tgttcaacaa     3298
+         || |||||||
+3342     accagttgtt     3333
+
+AGTCAGATAAGGAAGAAGATGTTCAACAA...TGTTGACCAAGTTGAAGAAGTCAATAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3288     atgttcaaca     3297
+         ||||| ||||
+3394     tacaaattgt     3385
+
+GAGTCAGATAAGGAAGAAGATGTTCAACA...GTTAAACATGAGATGAGTCCTTTTGAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3262     tctttttgag     3271
+         |||| |||||
+3309     agaacaactc     3300
+
+TTATGATTTCTGAATGGCCTCTTTTTGAG...TCAACAAGAAGCTACTCATATTGCTGAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2991     tttcattttc     3000
+         |||||| |||
+3071     aaagtagaag     3062
+
+AAAGCCGCTGGTGGTAAAGTTTCATTTTC...AAGATGAAAAACTTGTAGATGTTTGTGAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28       agaaaagttg       37
+         |||||||| |
+64       tcttttcatc       55
+
+ACCTTATCTATCTACAGATAGAAAAGTTG...TACTTTTCTCAACTAAACGAAATTTTTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2700     tgtgtaaggt     2709
+         |||||| |||
+2817     acacatccca     2808
+
+ATTGTGATACGTGATATCGTGTGTAAGGT...CCCTACACATTTTGACATTGAAGAAGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26790    aaacttcacc    26799
+         |||||||| |
+26831    tttgaagtag    26822
+
+CTAGAATTCAACCCATCCCAAACTTCACC...ATGAAGTTTCTATTGAAACTGACATAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25478    gtgttcaggt    25487
+         || |||||||
+25506    cataagtcca    25497
+
+GGACATAGATTGGCTTCAGGTGTTCAGGT...CCTGAATACATGACAGTTGCCGTGCCTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25361    ctgtcacaac    25370
+         ||||| ||||
+25383    gacagggttg    25374
+
+CCTGAGGTTAATGCAATCACTGTCACAAC...TTGGGACAGACATACTATCAACCCATTCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25062    tggttggaat    25071
+         ||||| ||||
+25084    accaatctta    25075
+
+ATTTGAAGAATTGGAATTTTGGTTGGAAT...TTCTAACCATATTCATTGTTATTCTTCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25024    acgggtgaca    25033
+         | ||||||||
+25044    tacccactgt    25035
+
+AATGTCAAACGACAATTGTACGGGTGACA...GTCACCCATTTGAAGAATTGGAATTTTGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24847    tattacaata    24856
+         |||||||| |
+24902    ataatgtttt    24893
+
+TAGTGATACTACTAGTGTGTATTACAATA...TTTGTAATAGAACAGTTTATGGCCCCATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24845    tgtattacaa    24854
+         | ||||||||
+24904    agataatgtt    24895
+
+TATAGTGATACTACTAGTGTGTATTACAA...TGTAATAGAACAGTTTATGGCCCCATTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23723    aattacactg    23732
+         |||| |||||
+23791    ttaaagtgac    23782
+
+ATTAAGTTACAAATTGCCAAATTACACTG...AGTGAAATTAGCACCCTTGAAAATAAATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23631    ttgttaacat    23640
+         || |||||||
+23691    aataattgta    23682
+
+GAAAATTGCAATGTCACATTTGTTAACAT...TGTTAATAAGACGCTGCAAGAATTAAGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22793    gccgctgatg    22802
+         || |||||||
+22872    cgccgactac    22863
+
+CATTATGGTTTTGCCTGGCGCCGCTGATG...ATCAGCCGCTTCAATACCATTTTCATTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22561    tgctaatgtt    22570
+         |||||| |||
+22598    acgattccaa    22589
+
+ACAAGAAAGCGTTTACACTTGCTAATGTT...ACCTTAGCAGTGTTATACCTAGCTTGCCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22441    attgcttaag    22450
+         ||| ||||||
+22495    taaagaattc    22486
+
+GTAATGTGCGCTGTGTTGAATTGCTTAAG...TTAAGAAATAGCGCCATGCTGGAGTCTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22145    ggcttttcta    22154
+         ||| ||||||
+22170    ccgtaaagat    22161
+
+TGAAAACTTTACTAGTTACGGCTTTTCTA...AGAAATGCCAAAATTTTTCTATGCGTCCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22082    cagcttgttg    22091
+         ||||||| ||
+22106    gtcgaacgac    22097
+
+TCCCTGTAACCCACCAGATCAGCTTGTTG...AGCAAGCTGTTGTTGGTGCTATGTTGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21893    atgaatgtta    21902
+         || |||||||
+21934    tatttacaat    21925
+
+TGAGGGTGTTAGTTCCTTTATGAATGTTA...AACATTTATGATGTATCTGGTGTGGGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21191    attaatggct    21200
+         ||||| ||||
+21238    taattgccga    21229
+
+ACGCACAGGACATTTTTATATTAATGGCT...GCCGTTAATTTCAATGTCACTAATGCTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21138    cactacctaa    21147
+         || |||||||
+21224    gtaatggatt    21215
+
+ACGTCTGCTTTTGTGGGTGCACTACCTAA...TAGGTAATGTAGAAGCCGTTAATTTCAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20349    cataatacat    20358
+         || |||||||
+20375    gttttatgta    20366
+
+GACCTTTTATAGATGGTAACATAATACAT...TGTATTTTGGCGTAACTCCACTGTTATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19913    caccaggaac    19922
+         |||||| |||
+20017    gtggtcattg    20008
+
+GGCTCTGATTATGGTGTTGCACCAGGAAC...TTACTGGTGATTGTGCAACCGTTTATTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19528    gatttgttgt    19537
+         | ||||||||
+19619    ccaaacaaca    19610
+
+GACTGTTTGTACTTACATGGATTTGTTGT...CAACAAACCATGGAGATGGATGCTATGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19364    aaactactct    19373
+         ||||| ||||
+19443    tttgaggaga    19434
+
+GTGTATGGTGATGTTTCAAAAACTACTCT...GAGGAGTTTGTGGCAGCATCTGACATAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19274    actttttgaa    19283
+         | ||||||||
+19368    tcaaaaactt    19359
+
+CGCAGCACAATGGAAGAAGACTTTTTGAA...TCAAAAACTACTCTAGGCGGTTTACACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18931    aagtctgttt    18940
+         |||||||| |
+18956    ttcagacata    18947
+
+TCCCTTGACAAGCTTTACTAAGTCTGTTT...TACAGACTTTGCAGAAGATGTTTGTACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18929    ctaagtctgt    18938
+         | ||||||||
+18958    gtttcagaca    18949
+
+CGTCCCTTGACAAGCTTTACTAAGTCTGT...CAGACTTTGCAGAAGATGTTTGTACTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18698    aattaccagt    18707
+         ||||| ||||
+18757    ttaatagtca    18748
+
+TTTGTTGGTGCTGACGGTGAATTACCAGT...CTGATAATTTAGTCTTTGTTAACAAAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17154    tacttatttg    17163
+         ||| ||||||
+17215    atggataaac    17206
+
+TACCACCAAGTCATGCCACTACTTATTTG...AAATAGGTAACAACAATGTTTGTACCTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16961    gtaatgccaa    16970
+         |||||| |||
+16991    cattaccgtt    16982
+
+TCAGATACTGCTCATGCCTGTAATGCCAA...TGCCATTACTAGAGCAAAGAAAGGTATTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16754    gtataaatag    16763
+         |||||||| |
+16795    catatttagc    16786
+
+CAGGTAGACAATGGCTCTAGTATAAATAG...GATTTATACATAAAAACTCCACATGGAGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16631    ctgaaatagt    16640
+         |||||| |||
+16654    gactttgtca    16645
+
+AAGTGTTACAGATGTCCTGCTGAAATAGT...CTGTTTCAGAGCTTGTTTATGAAAACAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16389    agttaatgca    16398
+         ||||| ||||
+16438    tcaatcacgt    16429
+
+CTGTTAATGCGTTACCTGAAGTTAATGCA...GCACTAACTATGACTTGTCTGTGATTAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16206    cgtgttcact    16215
+         ||||| ||||
+16289    gcacatgtga    16280
+
+ATTACCCTGGAGCGAGGATCGTGTTCACT...GTGTACACGTATTATTCCTGCACGTGCCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15779    ttttgctttt    15788
+         ||| ||||||
+15810    aaaccgaaaa    15801
+
+ATTGTAGGTCCTAAGGAACTTTTGCTTTT...AAAGCCAAACCACCGTTAAACCGTAATTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15515    acaaaccaca    15524
+         |||||||| |
+15568    tgtttggttt    15559
+
+AATTATTACTGTGTAGACCACAAACCACA...TTGGTTTGTACAAAAGTTCTGCTTTGGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15380    cctatgatca    15389
+         | ||||||||
+15411    gaatactagt    15402
+
+ATGTTGTGCACTAAGTGCGCCTATGATCA...GATCATAAGTTCATTTTAGCTATTACACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15169    aacaagactc    15178
+         || |||||||
+15205    tttttctgag    15196
+
+AGATTGGGTTAAACATCTCAACAAGACTC...AGTCTTTTTCTGTTACACTTTTAGATGAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14769    ttctgatgat    14778
+         ||||||| ||
+14864    aagactatta    14855
+
+ATTTTTCTATGATGATTCTTTCTGATGAT...TTATCAGAATGGTGTGTTTATGAGTACAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1425     tcatagacat     1434
+         ||||| ||||
+1461     agtatttgta     1452
+
+AGACAAGTTGCTTCAGGTGTCATAGACAT...TGTTTATGATGACATCTTTGCTGAAAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1393     tagtaatgtc     1402
+         || |||||||
+1439     atgattacag     1430
+
+TGTTGGGTGCTGAAATGACTAGTAATGTC...ACATTAGTACCGGCTGGTTTGATGTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13803    attgaagcat    13812
+         |||| |||||
+13844    taacgtcgta    13835
+
+ATGAGGGTTCAGAATTAACATTGAAGCAT...TGCTGCAATTAAAGATTTTGATTATTATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13679    gtttttctgt    13688
+         ||||| ||||
+13729    caaaatgaca    13720
+
+GTGGACAAACGCACTGTTTGTTTTTCTGT...CAGTAAAACCTGGCCATTTTAATAAGGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13609    ttacagtttg    13618
+         |||| |||||
+13726    aatgacaaac    13717
+
+ACTTACTATTACTGAACTCTTACAGTTTG...AAACAGTAAAACCTGGCCATTTTAATAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13034    tagtcgcaaa    13043
+         | ||||||||
+13076    agcagcgttt    13067
+
+TATGCTGCTTTAGGCAAGGTAGTCGCAAA...TTGCGACGAAATGGTGCTCAAAGGAGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12617    acaataaaga    12626
+         |||||| |||
+12707    tgttatatct    12698
+
+GTCCGTGCATTTGACGTTTACAATAAAGA...CTATATTGTTAAACGTTGCATTAAGTCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12480    atggctgtac    12489
+         ||| ||||||
+12587    tacagacatg    12578
+
+TGTGGTTGTTGGCTTAATCATGGCTGTAC...TACAGACATAGATTACTGTGTCCGTGCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11369    attaacagaa    11378
+         |||||||| |
+11428    taattgtcgt    11419
+
+GTCATCTGTTCAAAAGAAAATTAACAGAA...GCTGTTAATAGAAAATCAAAAGTTGTAAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11267    gctgttgcaa    11276
+         ||| ||||||
+11334    cgaaaacgtt    11325
+
+AAGACAAGAGTATGAAAATGCTGTTGCAA...TGCAAAAGCTGAGTTTGACAGGGAGTCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11239    tgaaacagca    11248
+         || |||||||
+11275    acgttgtcgt    11266
+
+TGCCATCTTTTGTTGCATATGAAACAGCA...GCTGTTGCAAATGGTTCCTCACCACAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10596    caatttctaa    10605
+         ||| ||||||
+10641    gtttaagatt    10632
+
+CTGGTTATGCTACTTTGTGCAATTTCTAA...TAGAATTTGTCGTTTTGGTGTTGCATTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10100    aacctgcaaa    10109
+         |||| |||||
+10157    ttggtcgttt    10148
+
+CAAACAAATGTTTGGTGTTAACCTGCAAA...TTGCTGGTTTCTTTGTCATGTTCTGGGCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+
+gb:MT008022|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI1|Segment:null|Host:Human
+Number of palindromes found = 0
+Max palindrome size = 0
+[]
+
+gb:MT008023|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI2|Segment:null|Host:Human
+Number of palindromes found = 0
+Max palindrome size = 0
+[]
+
+gb:MN988668|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019-nCoV WHU01|Segment:null|Host:Human
+Number of palindromes found = 160
+Max palindrome size = 12
+['aactgtgatgttg', 'ttgacacaacaac', 'tcgacggttcatc', 'agcagccaagtag', 'ctaactgagaata', 'gattaactcttat', 'tgctgaggcttct', 'acggctccgaaga']
+5744     acactggtaa     5753
+         ||||||||||
+5763     tgtgaccatt     5754
+
+TTTACTTGTGCTAGTGAGTACACTGGTAA...TACCAGTGTGGTCACTATAAACATATAAC
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+5357     cttattacag     5366
+         ||||||||||
+5424     gaataatgtc     5415
+
+CCACCTGCTCTACAAGATGCTTATTACAG...TGTAATAAGACAGTAGGTGAGTTAGGTGA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+5106     aggtaaaacat     5116
+         |||||||||||
+5130     tccattttgta     5120
+
+AACCTCATAATTCACATGAAGGTAAAACAT...TGTTTTACCTAATGATGACACTCTACGTGT
+Accuracy = 11 / 11 = 1.0
+ 
+-------------------------------------- 
+ 
+15774    ataaagaact    15783
+         ||||||||||
+15800    tatttcttga    15791
+
+TCAAGGTCTAGTGGCTAGCATAAAGAACT...GTTCTTTATTATCAAAACAATGTTTTTAT
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+10981    aaaagaacaa    10990
+         ||||||||||
+11077    ttttcttgtt    11068
+
+TACTTTCCAAAGTGCAGTGAAAAGAACAA...TGTTCTTTTTTTTGTATGAAAATGCCTTT
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+29025    tgctgaggcttct    29037
+         ||| |||||||||
+29051    acggctccgaaga    29039
+
+CTGTCACTAAGAAATCTGCTGCTGAGGCTTCT...GAAGCCTCGGCAAAAACGTACTGCCACTAAAG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+27330    ctaactgagaata    27342
+         |||| ||||||||
+27357    gattaactcttat    27345
+
+TAAAAATTTATCTAAGTCACTAACTGAGAATA...ATTCTCAATTAGATGAAGAGCAACCAATGGAG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+26137    tcgacggttcatc    26149
+         ||| |||||||||
+26196    agcagccaagtag    26184
+
+CATGTCCAAATTCACACAATCGACGGTTCATC...ATGAACCGACGACGACTACTAGCGTGCCTTTG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+24934    aactgtgatgttg    24946
+         ||||||| |||||
+24972    ttgacacaacaac    24960
+
+CAACACATTTGTGTCTGGTAACTGTGATGTTG...AACAACACAGTTTATGATCCTTTGCAACCTGA
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+6268     acgtataaacca     6279
+         ||||||| ||||
+6297     tgcatatgtggt     6286
+
+CAATGCAACTAATAAAGCCACGTATAAACCA...GGTGTATACGTTGTCTTTGGAGCACAAAACC
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+26031    ctgtactcaact    26042
+         |||||||||| |
+26055    gacatgagttaa    26044
+
+CACTTCAGACTATTACCAGCTGTACTCAACT...ATTGAGTACAGACACTGGTGTTGAACATGTT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+22818    tgattataatta    22829
+         | ||||||||||
+22913    attaatattaat    22902
+
+GGCAAACTGGAAAGATTGCTGATTATAATTA...AATTATAATTACCTGTATAGATTGTTTAGGA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+22630    agaatcagcaac    22641
+         | ||||||||||
+22656    tattagtcgttg    22645
+
+TTATGCTTGGAACAGGAAGAGAATCAGCAAC...TTGCTGATTATTCTGTCCTATATAATTCCGC
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+9324     tgtagatgctg     9334
+         | |||||||||
+9405     atatctacgac     9395
+
+TACCAGGAGTTTTCTGTGGTGTAGATGCTG...AGCATCTATAGTAGCTGGTGGTATTGTAGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+5793     aactttgtatt     5803
+         | |||||||||
+5847     tggaaacataa     5837
+
+AACATATAACTTCTAAAGAAACTTTGTATT...ATACAAAGGTCCTATTACGGATGTTTTCTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+5130     taatgatgaca     5140
+         ||||| |||||
+5214     attacgactgt     5204
+
+AAACATTTTATGTTTTACCTAATGATGACA...GTCAGCATTAAATCACACTAAAAAGTGGAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4852     agaggtgataa     4862
+         | |||||||||
+4923     tttccactatt     4913
+
+AGGTATAGAATTTCTTAAGAGAGGTGATAA...TATCACCTTTGACAATCTTAAGACACTTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4638     tttggaagaag     4648
+         ||| |||||||
+4749     aaatcttcttc     4739
+
+ATGTAACACATGGCTTAAATTTGGAAGAAG...TTCTTCTAAAACACCTGAAGAACATTTTAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4181     ctggtggcact     4191
+         ||| |||||||
+4231     gacaaccgtga     4221
+
+GTTATACCTACTAAAAAGGCTGGTGGCACT...GTGCCAACAGACAATTATATAACCACTTAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+28210    agactttttag    28220
+         |||| ||||||
+28278    tctgtaaaatc    28268
+
+TGCGTTGTTCGTTCTATGAAGACTTTTTAG...TAAAATGTCTGATAATGGACCCCAAAATCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27762    aactttcatta    27772
+         || ||||||||
+27875    ttcaaagtaat    27865
+
+AAGAAAGACAGAATGATTGAACTTTCATTA...AATGAAACTTGTCACGCCTAAACGAACATG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27250    ttattatgagg    27260
+         | |||||||||
+27312    attaatactcc    27302
+
+ATAGCAGAGATATTACTAATTATTATGAGG...CTCATAATTAAAAATTTATCTAAGTCACTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26083    tcatctacaat    26093
+         ||||| |||||
+26107    agtagttgtta    26097
+
+GTTGAACATGTTACCTTCTTCATCTACAAT...TTGTTGATGAGCCTGAAGAACATGTCCAAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26065    ttgaacatgtt    26075
+         ||| |||||||
+26126    aacctgtacaa    26116
+
+TTGAGTACAGACACTGGTGTTGAACATGTT...ACATGTCCAAATTCACACAATCGACGGTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24244    caaataccatt    24254
+         | |||||||||
+24290    ggttatggtaa    24280
+
+TGGTGCAGGTGCTGCATTACAAATACCATT...ATGGTATTGGAGTTACACAGAATGTTCTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23931    aacaccaccaa    23941
+         || ||||||||
+23961    ttttggtggtt    23951
+
+AAGTCAAACAAATTTACAAAACACCACCAA...TGGTGGTTTTAATTTTTCACAAATATTACC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23613    acgtagtgtag    23623
+         || ||||||||
+23653    tgtatcacatc    23643
+
+CTAATTCTCCTCGGCGGGCACGTAGTGTAG...TACACTATGTCACTTGGTGCAGAAAATTCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22824    taattataaat    22834
+         ||||||||| |
+22913    attaatattaa    22903
+
+CTGGAAAGATTGCTGATTATAATTATAAAT...ATTATAATTACCTGTATAGATTGTTTAGGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22758    atttgtaatta    22768
+         |||| ||||||
+22834    taaatattaat    22824
+
+CTAATGTCTATGCAGATTCATTTGTAATTA...AATTATAAATTACCAGATGATTTTACAGGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+21161    tataaagataa    21171
+         ||||||||| |
+21201    atatttctagt    21191
+
+CTCTTGGAGGTTCCGTGGCTATAAAGATAA...GATCTTTATAAGCTCATGGGACACTTCGCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+20152    attataagaaa    20162
+         ||| |||||||
+20265    taagattcttt    20255
+
+GTAAAAACACAGTTCAATTATTATAAGAAA...TTCTTAGAATTAGCTATGGATGAATTCATT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18953    taatgcggctt    18963
+         |||||| ||||
+19001    attacgtcgaa    18991
+
+TTGGTGATGAACTGAAGATTAATGCGGCTT...AGCTGCATTATTAGCAGACAAATTCCCAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18937    gtgatgaactg    18947
+         |||| ||||||
+19028    cacttcttgac    19018
+
+ATTGAATATCCTATAATTGGTGATGAACTG...AGTTCTTCACGACATTGGTAACCCTAAAGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+17140    ctcgcatagtg    17150
+         ||| |||||||
+17192    gagtgtatcac    17182
+
+GCTCTCTACTACCCTTCTGCTCGCATAGTG...ACTATGTGAGAAGGCATTAAAATATTTGCC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16778    ctttactggtt    16788
+         |||||||| ||
+16812    gaaatgacaaa    16802
+
+CACTTAACCGAAATTATGTCTTTACTGGTT...AACAGTAAAGTACAAATAGGAGAGTACACC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+15481    catcaggagat    15491
+         |||||| ||||
+15573    gtagtcatcta    15563
+
+GTTAAACCAGGTGGAACCTCATCAGGAGAT...TCTACTGATGGTAACAAAATTGCCGATAAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+15142    atagacagttt    15152
+         ||| |||||||
+15257    tatttgtcaaa    15247
+
+ATCTGTAGTACTATGACCAATAGACAGTTT...AACTGTTTATAGTGATGTAGAAAACCCTCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14220    ttaacaaagcc    14230
+         |||||||| ||
+14253    aattgtttagg    14243
+
+GTCACATGTTGACACTGACTTAACAAAGCC...GATTTGTTAAAATATGACTTCACGGAAGAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+13634    aattgattctt    13644
+         ||||| |||||
+13697    ttaacaaagaa    13687
+
+AGGACGAAGATGACAATTTAATTGATTCTT...AGAAACAATTTATAATTTACTTAAGGATTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11879    tactctcagtt    11889
+         |||||| ||||
+11907    atgagactcaa    11897
+
+AAGTGCACATCAGTAGTCTTACTCTCAGTT...ACTCAGAGTAGAATCATCATCTAAATTGTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11753    cacccaagaat    11763
+         ||||||| |||
+11803    gtgggttgtta    11793
+
+AATTCACAGGGACTACTCCCACCCAAGAAT...TTGTTGGGTGTTGGTGGCAAACCTTGTATC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+10478    atggttcatgt    10488
+         ||||| |||||
+10545    taccacgtaca    10535
+
+ATTAAGGGTTCATTCCTTAATGGTTCATGT...CATGCACCATATGGAATTACCAACTGGAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+9612     tactaatgat     9621
+         ||| ||||||
+9706     atgtttacta     9697
+
+TGTACTTGACATTTTATCTTACTAATGAT...TCATTTGTATTTCCACAAAGCATTTCTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9546     aacaccagtt     9555
+         |||||||| |
+9576     ttgtggtcca     9567
+
+CATTCACTGTACTCTGTTTAACACCAGTT...CCTGGTGTTTATTCTGTTATTTACTTGTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9544     ttaacaccag     9553
+         | ||||||||
+9578     atttgtggtc     9569
+
+GTCATTCACTGTACTCTGTTTAACACCAG...TGGTGTTTATTCTGTTATTTACTTGTACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9320     gtggtgtaga     9329
+         |||||||| |
+9364     caccacattt     9355
+
+TCTTTACCAGGAGTTTTCTGTGGTGTAGA...TTACACCACTAATTCAACCTATTGGTGCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8858     tcgtgcctgg     8867
+         ||||||| ||
+8881     agcacggtcc     8872
+
+ACAAGAGAAGTGGGTTTTGTCGTGCCTGG...CTGGCACGATATTACGCACAACTAATGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+860      agtgcattaa      869
+         ||||||| ||
+906      tcacgtactt      897
+
+CCTGATGGCTACCCTCTTGAGTGCATTAA...TCATGCACTTTGTCCGAACAACTGGACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8044     tacgttaata     8053
+         |||||||| |
+8076     atgcaatttt     8067
+
+AGTTAAAATGTTTGATGCTTACGTTAATA...TTTAACGTACCAATGGAAAAACTCAAAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7853     ataacactaa     7862
+         |||||| |||
+7886     tattgtaatt     7877
+
+TTAGACAACCTGAGAGCTAATAACACTAA...TAATGTTATAGTTTTTGATGGTAAATCAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7819     tctcattttg     7828
+         || |||||||
+7913     agtgtaaaac     7904
+
+TTATGAAAGACATTCTCTCTCTCATTTTG...AAAATGTGAAGAATCATCTGCAAAATCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7718     accagtcttc     7727
+         |||| |||||
+7761     tggtaagaag     7752
+
+AGACCAATAAATCCTACTGACCAGTCTTC...AAGAATGGTTCCATCCATCTTTACTTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7677     agacttgtca     7686
+         ||||| ||||
+7725     tctgaccagt     7716
+
+TTAGTGATGAAGTTGCGAGAGACTTGTCA...GACCAGTCTTCTTACATCGTTGATAGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7653     atttattagt     7662
+         ||||||| ||
+7710     taaataacca     7701
+
+CATTCTGTGCTGGTAGTACATTTATTAGT...CCAATAAATCCTACTGACCAGTCTTCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7469     acggttgtaa     7478
+         ||| ||||||
+7509     tgcaaacatt     7500
+
+AGTTATGTGCATGTTGTAGACGGTTGTAA...TACAAACGTAATAGAGCAACAAGAGTCGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7330     gtacatttta     7339
+         ||||||| ||
+7416     catgtaagat     7407
+
+GTTTTTCAGCTATTTTGCAGTACATTTTA...AGAATGTACATCTTCTTTGCATCATTTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6802     tgtactttta     6811
+         ||||||| ||
+6822     acatgaagat     6813
+
+TACTTTATTGCTACAATTGTGTACTTTTA...AGAAGTACAAATTCTAGAATTAAAGCATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6656     atagtgtccc     6665
+         ||||| ||||
+6677     tatcataggg     6668
+
+CATGGTTTAGCTGCTGTTAATAGTGTCCC...GGATACTATAGCTAATTATGCTAAGCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6651     tgttaatagt     6660
+         ||||| ||||
+6730     acaatcatca     6721
+
+CTACTCATGGTTTAGCTGCTGTTAATAGT...CTACTAACATAGTTACACGGTGTTTAAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6580     actattaaga     6589
+         |||||||| |
+6660     tgataattgt     6651
+
+TGTAGACAATTCTAGTCTTACTATTAAGA...GTTAATAGTGTCCCTTGGGATACTATAGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6563     tagacaattc     6572
+         |||| |||||
+6607     atctattaag     6598
+
+GATCTAATGGCTGCTTATGTAGACAATTC...AATTATCTAGAGTATTAGGTTTGAAAACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6452     agtgtaatgt     6461
+         ||| ||||||
+6494     tcatattaca     6485
+
+ATACAGAAAGACGTTCTTGAGTGTAATGT...CATTATACTTAAACCAGCAAATAATAGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+630      tcttcgtaag      639
+         ||||| ||||
+731      agaagtattc      722
+
+TGGCTTACCGCAAGGTTCTTCTTCGTAAG...TTATGAAGATTTTCAAGAAAACTGGAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6042     taattttaag     6051
+         ||| ||||||
+6136     attgaaattc     6127
+
+ATCCAAACGCAAGCTTCGATAATTTTAAG...TTAAAGTTACATTTTTCCCTGACTTAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5903     ttacttataa     5912
+         || |||||||
+5970     aaagaatatt     5961
+
+ACAACAACCATAAAACCAGTTACTTATAA...TATAAGAAAGACAATTCTTATTTCACAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4937     cacttctttc     4946
+         ||||||| ||
+4959     gtgaagagag     4950
+
+ACCTTTGACAATCTTAAGACACTTCTTTC...AGAGAAGTGAGGACTATTAAGGTGTTTAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4843     tttcttaaga     4852
+         | ||||||||
+4938     acagaattct     4929
+
+TACACAACTAGGTATAGAATTTCTTAAGA...CTTAAGACACTTCTTTCTTTGAGAGAAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4441     gtggaaacta     4450
+         || |||||||
+4466     caactttgat     4457
+
+CAAATTAATGCCTGTCTGTGTGGAAACTA...AGTTTCAACTATACAGCGTAAATATAAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4384     aatttgcgag     4393
+         |||||||| |
+4427     ttaaacgcac     4418
+
+TCTTGGAACTGTTTCTTGGAATTTGCGAG...ACGCAAATTAATGCCTGTCTGTGTGGAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4307     agtgtaaaag     4316
+         | ||||||||
+4329     ttacattttc     4320
+
+GCAAAGACAGTGCTTAAAAAGTGTAAAAG...TTTTACATTCTACCATCTATTATCTCTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4241     taaccactta     4250
+         |||||| |||
+4274     attggtaaat     4265
+
+GTGCCAACAGACAATTATATAACCACTTA...AAATGGTTACACTGTAGAGGAGGCAAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3990     tctggaagaa     3999
+         |||||| |||
+4061     agacctactt     4052
+
+TTGAAGAAGTTACAACAACTCTGGAAGAA...TCATCCAGATTCTGCCACTCTTGTTAGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3909     aactgaaagt     3918
+         ||||||| ||
+3930     ttgacttcca     3921
+
+AGGAAGTTAAGCCATTTATAACTGAAAGT...CCTTCAGTTGAACAGAGAAAACAAGATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3705     attattatca     3714
+         ||| ||||||
+3807     taaaaatagt     3798
+
+ACGAAGTTCTACTTGCACCATTATTATCA...GATAAAAATCTCTATGACAAACTTGTTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3681     tcagcacgaa     3690
+         ||||||| ||
+3734     agtcgtggtt     3725
+
+GTGCTTATGAAAATTTTAATCAGCACGAA...TGGTGCTGACCCTATACATTCTTTAAGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3602     actgtcttca     3611
+         | ||||||||
+3648     ttacagaagt     3639
+
+GGACACAATCTTGCTAAACACTGTCTTCA...GAAGACATTCAACTTCTTAAGAGTGCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3480     aggagcctta     3489
+         || |||||||
+3501     tcatcggaat     3492
+
+AACATGGAGGAGGTGTTGCAGGAGCCTTA...AAGGCTACTAACAATGCCATGCAAGTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28944    tgacagattg    28953
+         |||||| |||
+29011    actgtcaaac    29002
+
+CTCTTGCTTTGCTGCTGCTTGACAGATTG...AAACTGTCACTAAGAAATCTGCTGCTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28868    caggcagcag    28877
+         || |||||||
+28945    gttcgtcgtc    28936
+
+AGTTCAAGAAATTCAACTCCAGGCAGCAG...TGCTGCTTGACAGATTGAACCAGCTTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28797    gagcagaggc    28806
+         ||| ||||||
+28825    ctcttctccg    28816
+
+AAGGCTTCTACGCAGAAGGGAGCAGAGGC...CCTCTTCTCGTTCCTCATCACGTAGTCGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27828    ttattatctt    27837
+         |||| |||||
+27867    aatactagaa    27858
+
+TTCCTTGTTTTAATTATGCTTATTATCTT...AGATCATAATGAAACTTGTCACGCCTAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27817    tttaattatg    27826
+         ||| ||||||
+27872    aaagtaatac    27863
+
+CCTTTCTGCTATTCCTTGTTTTAATTATG...ATAATGAAACTTGTCACGCCTAAACGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27665    ggaagttcaa    27674
+         | ||||||||
+27768    ctttcaagtt    27759
+
+AACTGTTCATCAGACAAGAGGAAGTTCAA...TGAACTTTCATTAATTGACTTCTATTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2667     ccttgcacct     2676
+         |||||||| |
+2768     ggaacgtgaa     2759
+
+ACACAGAAAAGTACTGTGCCCTTGCACCT...AGTGCAAGGTTACAAGAGTGTGAATATCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26533    caacggtact    26542
+         |||||||| |
+26552    gttgccatta    26543
+
+TTTTAGCCATGGCAGATTCCAACGGTACT...TTACCGTTGAAGAGCTTAAAAAGCTCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26531    tccaacggta    26540
+         | ||||||||
+26554    aagttgccat    26545
+
+AATTTTAGCCATGGCAGATTCCAACGGTA...ACCGTTGAAGAGCTTAAAAAGCTCCTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25598    gcaactagca    25607
+         ||||| ||||
+25684    cgttgctcgt    25675
+
+TAACCCTCAAAAAGAGATGGCAACTAGCA...GCTCGTTGCTGCTGGCCTTGAAGCCCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25379    cataaacgaa    25388
+         ||||||| ||
+25406    gtatttgttt    25397
+
+GGAGTCAAATTACATTACACATAAACGAA...TTGTTTATGAGAATCTTCACAATTGGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24973    tatgatcctt    24982
+         |||||| |||
+25039    atactaagaa    25030
+
+AATTGTCAACAACACAGTTTATGATCCTT...AGAATCATACATCACCAGATGTTGATTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24405    tcaagatgtg    24414
+         |||||| |||
+24515    agttctgcac    24506
+
+CAAGTGCACTTGGAAAACTTCAAGATGTG...ACGTCTTGACAAAGTTGAGGCTGAAGTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24322    aaattgattg    24331
+         |||||| |||
+24342    tttaaccaac    24333
+
+TGTTCTCTATGAGAACCAAAAATTGATTG...AACCAATTTAATAGTGCTATTGGCAAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24163    gaaatgattg    24172
+         ||| ||||||
+24212    cttcactaac    24203
+
+GCCACCTTTGCTCACAGATGAAATGATTG...AATCACTTCTGGTTGGACCTTTGGTGCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24114    tgcacaaaag    24123
+         ||||| ||||
+24231    acgtggtttc    24222
+
+CTGCTAGAGACCTCATTTGTGCACAAAAG...TTTGGTGCAGGTGCTGCATTACAAATACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23955    tggttttaat    23964
+         ||||||| ||
+23997    accaaaacta    23988
+
+CACCAATTAAAGATTTTGGTGGTTTTAAT...TCAAAACCAAGCAAGAGGTCATTTATTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23858    ctttaactgg    23867
+         |||||| |||
+23947    gaaattaacc    23938
+
+TGTACACAATTAAACCGTGCTTTAACTGG...CAATTAAAGATTTTGGTGGTTTTAATTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23705    ccacaaattt    23714
+         |||||||| |
+23792    ggtgtttaca    23783
+
+AATAACTCTATTGCCATACCCACAAATTT...CATTTGTGGTGATTCAACTGAATGCAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23578    agttatcaga    23587
+         |||||| |||
+23692    tcaataatct    23683
+
+TGGTGCAGGTATATGCGCTAGTTATCAGA...CTAATAACTCTATTGCCATACCCACAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23270    ctgacactac    23279
+         ||||||| ||
+23348    gactgtggtg    23339
+
+CAATTTGGCAGAGACATTGCTGACACTAC...TGGTGTCAGTGTTATAACACCAGGAACAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2324     ctttgtgtgc     2333
+         ||||| ||||
+2406     gaaactcacg     2397
+
+CTTGTAAATAAATTTTTGGCTTTGTGTGC...CACTCAAAGGGATTGTACAGAAAGTGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23127    aactgtttgt    23136
+         |||| |||||
+23237    ttgaaaaaca    23228
+
+AACTTCTACATGCACCAGCAACTGTTTGT...CAAAAAGTTTCTGCCTTTCCAACAATTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2298     ctttaagctt     2307
+         ||||||| ||
+2368     gaaattcaaa     2359
+
+AGGAGAGTGTTCAGACATTCTTTAAGCTT...AACTTAAAGCCTTGAATTTAGGTGAAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22556    ttacaaactt    22565
+         ||| ||||||
+22589    aatttttgaa    22580
+
+ATTGTTAGATTTCCTAATATTACAAACTT...AGTTTTTAACGCCACCAGATTTGCATCTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22494    aatctatcaa    22503
+         |||||| |||
+22547    ttagattgtt    22538
+
+CCTTCACTGTAGAAAAAGGAATCTATCAA...TGTTAGATTTCCTAATATTACAAACTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2212     aaatttatct     2221
+         |||||||| |
+2319     tttaaataaa     2310
+
+AGACGGTTGGGAAATTGTTAAATTTATCT...AATAAATTTTTGGCTTTGTGTGCTGACTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21936    tgttgttatt    21945
+         ||||||| ||
+22009    acaacaaaaa    22000
+
+TTGTTAATAACGCTACTAATGTTGTTATT...AAAACAACAAAAGTTGGATGGAAAGTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21406    ttccccttaa    21415
+         | ||||||||
+21426    atggggaatt    21417
+
+TTATTTGACATGAGTAAATTTCCCCTTAA...TAAGGGGTACTGCTGTTATGTCTTTAAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21386    tttatttgac    21395
+         || |||||||
+21460    aactaaactg    21451
+
+TTCAGTTGTCTTCCTATTCTTTATTTGAC...TCAAATCAATGATATGATTTTATCTCTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21351    aggaatacaa    21360
+         ||||| ||||
+21381    tccttctgtt    21372
+
+TGCAAATTACATATTTTGGAGGAATACAA...TGTCTTCCTATTCTTTATTTGACATGAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21275    aattggatgt    21284
+         |||||||| |
+21368    ttaacctaaa    21359
+
+CATCATCTGAAGCATTTTTAATTGGATGT...AATCCAATTCAGTTGTCTTCCTATTCTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21273    ttaattggat    21282
+         | ||||||||
+21370    acttaaccta    21361
+
+GTCATCATCTGAAGCATTTTTAATTGGAT...TCCAATTCAGTTGTCTTCCTATTCTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21216    ttcgcatggt    21225
+         ||||| ||||
+21308    aagcgcacca    21299
+
+TTATAAGCTCATGGGACACTTCGCATGGT...CCACGCGAACAAATAGATGGTTATGTCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21130    aacaaaagct    21139
+         |||||| |||
+21239    ttgtttccga    21230
+
+TACATTTGTGGGTTTATACAACAAAAGCT...GCCTTTGTTACTAATGTGAATGCGTCATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21035    cattattagt    21044
+         |||| |||||
+21072    gtaaaaatca    21063
+
+CAGCTAATAAATGGGATCTCATTATTAGT...CTAAAAATGTTACAAAAGAAAATGACTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20507    tttattactt    20516
+         ||||||| ||
+20539    aaataataaa    20530
+
+GTGTGTGTTCTGTTATTGATTTATTACTT...AATAATAAAATCCCAAGATTTATCTGTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20224    aatttaaacc    20233
+         |||||| |||
+20299    ttaaatatgg    20290
+
+CAGAGTAGAAATTTACAAGAATTTAAACC...GTATAAATTAGAAGGCTATGCCTTCGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20048    tacagaaggt    20057
+         |||||| |||
+20084    atgtctacca    20075
+
+CCCGTAATGGTGTTCTTATTACAGAAGGT...CCATCTGTAGGTCCCAAACAAGCTAGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19771    ttaatgtagc    19780
+         ||||||| ||
+19810    aattacaacg    19801
+
+AATAAAACAACATTACCTGTTAATGTAGC...CAACATTAAACCAGTACCAGAGGTGAAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19494    catcatgcta    19503
+         ||||||| ||
+19541    gtagtacaat    19532
+
+AGGTGGTGCTGTCTGTAGACATCATGCTA...AACATGATGATCTCAGCTGGCTTTAGCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19448    tgctacgtgt    19457
+         ||| ||||||
+19470    acgttgcaca    19461
+
+ATTATGTACCACTAAAGTCTGCTACGTGT...CACGTTGCAATTTAGGTGGTGCTGTCTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19300    taaataaaca    19309
+         ||||| ||||
+19355    atttaattgt    19346
+
+GATGGTGGCAGTTTGTATGTAAATAAACA...GTTAATTTAAAACAATTACCATTTTTCTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19124    aatagaagaa    19133
+         ||||||| ||
+19143    ttatcttatt    19134
+
+GTAGTGACAAAGCTTATAAAATAGAAGAA...TATTCTATTCTTATGCCACACATTCTGAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18668    tgatagacgt    18677
+         | ||||||||
+18751    aatatctgca    18742
+
+AGCGCACCTGTTGTCTATGTGATAGACGT...CGTCTATAATCCGTTTATGATTGATGTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18360    cagctaggtt    18369
+         || |||||||
+18393    gttgatccaa    18384
+
+TGGTACCAATTTACCTTTACAGCTAGGTT...ACCTAGTTGCTGTACCTACAGGTTATGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18337    ctgttggtac    18346
+         |||| |||||
+18405    gacatccatg    18396
+
+TGTCATGCTACTAGAGAAGCTGTTGGTAC...TACCTACAGGTTATGTTGATACACCTAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18118    tcagtgttga    18127
+         ||||| ||||
+18145    agtcaaaact    18136
+
+ACACAGGCACCTACACACCTCAGTGTTGA...CAAAACTGAAGGTTTATGTGTTGACATAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17897    ctcttgtaat    17906
+         |||| |||||
+17937    gagaccatta    17928
+
+AAACCACTGAAACAGCTCACTCTTGTAAT...TTACCAGAGCAAAAGTAGGCATACTTTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17538    gacatgttcc    17547
+         |||| |||||
+17559    ctgttcaagg    17550
+
+TATGAAAACTATAGGTCCAGACATGTTCC...GAACTTGTCGGCGTTGTCCTGCTGAAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17144    catagtgtat    17153
+         ||||||| ||
+17188    gtatcacgta    17179
+
+TCTACTACCCTTCTGCTCGCATAGTGTAT...TGCACTATGTGAGAAGGCATTAAAATATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1708     gcttccacaa     1717
+         | ||||||||
+1733     caaaggtgtt     1724
+
+TATTTTGGCATCTTTTTCTGCTTCCACAA...TGTGGAAACTGTGAAAGGTTTGGATTATA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16520    tacatgtgtt    16529
+         |||| |||||
+16614    atgtccacaa    16605
+
+TTTTTGGTTTATATAAAAATACATGTGTT...ACACCTGTACTGAAAGACTCAAGCTTTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16457    acataaacca    16466
+         | ||||||||
+16514    tatatttggt    16505
+
+TGAGCTATTATTGTAAATCACATAAACCA...GGTTTATATAAAAATACATGTGTTGGTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1636     aaagtcaaca     1645
+         ||||||| ||
+1665     tttcagtggt     1656
+
+TGAAATACTCCAAAAAGAGAAAGTCAACA...GGTGACTTTAAACTTAATGAAGAGATCGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16261    attcacagac    16270
+         ||| ||||||
+16373    taattgtctg    16364
+
+GGGGCTTGTGTTCTTTGCAATTCACAGAC...TCTGTTAATCCGTATGTTTGCAATGCTCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15918    gtgtaccttc    15927
+         ||||||| ||
+15999    cacatggtag    15990
+
+TAAACAGGGTGATGATTATGTGTACCTTC...ATGGTACACTTATGATTGAACGGTTCGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15915    tatgtgtacc    15924
+         || |||||||
+16002    attcacatgg    15993
+
+AGTTAAACAGGGTGATGATTATGTGTACC...GTACACTTATGATTGAACGGTTCGTGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15673    tttacgcata    15682
+         |||||||| |
+15692    aaatgcgttt    15683
+
+ACAGACTTTGTGAATGAGTTTTACGCATA...TTGCGTAAACATTTCTCAATGATGATACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15580    aaattgccga    15589
+         ||||||| ||
+15607    tttaacgcct    15598
+
+TTATCTACTGATGGTAACAAAATTGCCGA...CCGCAATTTACAACACAGACTTTATGAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15520    ttaacatttg    15529
+         |||||||| |
+15553    aattgtaacc    15544
+
+GCTTATGCTAATAGTGTTTTTAACATTTG...CAATGTTAATGCACTTTTATCTACTGATG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15458    atatgttaaa    15467
+         | ||||||||
+15528    tttacaattt    15519
+
+TCATGTGTGGCGGTTCACTATATGTTAAA...TTAACATTTGTCAAGCTGTCACGGCCAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14984    ttatgattca    14993
+         ||| ||||||
+15073    aattctaagt    15064
+
+GGGGTAAGGCTAGACTTTATTATGATTCA...GAATCTTAAGTATGCCATTAGTGCAAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14860    aagttgttga    14869
+         | ||||||||
+14932    tccaacaact    14923
+
+CAACTACTATTTGTAGTTGAAGTTGTTGA...CAACAACCTAGACAAATCAGCTGGTTTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14486    agagctaggt    14495
+         ||||||| ||
+14531    tctcgataca    14522
+
+CAACTGGATACCACTTCAGAGAGCTAGGT...CATAGCTCTAGACTTAGTTTTAAGGAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13757    agacggtgac    13766
+         ||||| ||||
+13795    tctgcaactg    13786
+
+ACTTCTTTAAGTTTAGAATAGACGGTGAC...TCAACGTCTTACTAAATACACAATGGCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13752    agaatagacg    13761
+         || |||||||
+13829    tcgtatctgc    13820
+
+ACATGACTTCTTTAAGTTTAGAATAGACG...GTCTATGCTTTAAGGCATTTTGATGAAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13647    tttgtagtta    13656
+         || |||||||
+13682    aaccatcaat    13673
+
+CAATTTAATTGATTCTTACTTTGTAGTTA...AACTACCAACATGAAGAAACAATTTATAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13422    ccgcgaaccc    13431
+         |||| |||||
+13477    ggcgtttggg    13468
+
+GCTGTAGTTGTGATCAACTCCGCGAACCC...GGTTTGCGGTGTAAGTGCAGCCCGTCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13220    aatcctttgg    13229
+         |||||||| |
+13289    ttaggaaatc    13280
+
+GAAGCCAATATGGATCAAGAATCCTTTGG...TAAAGGATTTTGTGACTTAAAAGGTAAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13218    agaatccttt    13227
+         | ||||||||
+13291    ttttaggaaa    13282
+
+CGGAAGCCAATATGGATCAAGAATCCTTT...AAGGATTTTGTGACTTAAAAGGTAAGTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12385    gataatgatg    12394
+         ||||||| ||
+12411    ctattacaac    12402
+
+CACTATGCTTAGAAAGTTGGATAATGATG...AACATTATCAACAATGCAAGAGATGGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1224     catgaagtgt     1233
+         |||||||| |
+1256     gtacttcaaa     1247
+
+AAATGTGCCTTTCAACTCTCATGAAGTGT...AACTTCATGGCAGACGGGCGATTTTGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11869    tcagtagtct    11878
+         |||||||| |
+11981    agtcatcata    11972
+
+GTCAGATGTAAAGTGCACATCAGTAGTCT...TACTACTGAAGCCTTTGAAAAAATGGTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11867    catcagtagt    11876
+         | ||||||||
+11983    gaagtcatca    11974
+
+ATGTCAGATGTAAAGTGCACATCAGTAGT...CTACTGAAGCCTTTGAAAAAATGGTTTCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11487    ttctaactac    11496
+         || |||||||
+11512    aacattgatg    11503
+
+CTCTTATAATCTCTGTTACTTCTAACTAC...TAGTTACAACTGTCATGTTTTTGGCCAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11401    aatgtcttga    11410
+         |||| |||||
+11457    ttaccgaact    11448
+
+GAGAGTGTGGACACTTATGAATGTCTTGA...CAAGCCATTTCCATGTGGGCTCTTATAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1123     agggttgaaa     1132
+         || |||||||
+1223     tctcaacttt     1214
+
+AATCAAGACTATTCAACCAAGGGTTGAAA...TTCAACTCTCATGAAGTGTGATCATTGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1112     ctattcaacc     1121
+         || |||||||
+1134     gaaaagttgg     1125
+
+TTAAATTCCATAATCAAGACTATTCAACC...GTTGAAAAGAAAAAGCTTGATGGCTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10970    aaagtgcagt    10979
+         |||||| |||
+11038    tttcacttca    11029
+
+TGCTCAGGTGTTACTTTCCAAAGTGCAGT...CTTCACTTTTAGTTTTAGTCCAGAGTACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10870    caaaatggta    10879
+         ||| ||||||
+10899    gttataccat    10890
+
+TTCATTAAAAGAATTACTGCAAAATGGTA...ACCATATTGGGTAGTGCTTTATTAGAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10756    atgaagtaca    10765
+         |||||| |||
+10855    tacttcgtgt    10846
+
+TGACTTTAACCTTGTGGCTATGAAGTACA...GTGCTTCATTAAAAGAATTACTGCAAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10456    actattaagg    10465
+         || |||||||
+10482    tggtaattcc    10473
+
+TGCTATGAGGCCCAATTTCACTATTAAGG...CTTAATGGTTCATGTGGTAGTGTTGGTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+
+gb:MN988669|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019-nCoV WHU02|Segment:null|Host:Human
+Number of palindromes found = 160
+Max palindrome size = 12
+['aactgtgatgttg', 'ttgacacaacaac', 'tcgacggttcatc', 'agcagccaagtag', 'ctaactgagaata', 'gattaactcttat', 'tgctgaggcttct', 'acggctccgaaga']
+5744     acactggtaa     5753
+         ||||||||||
+5763     tgtgaccatt     5754
+
+TTTACTTGTGCTAGTGAGTACACTGGTAA...TACCAGTGTGGTCACTATAAACATATAAC
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+5357     cttattacag     5366
+         ||||||||||
+5424     gaataatgtc     5415
+
+CCACCTGCTCTACAAGATGCTTATTACAG...TGTAATAAGACAGTAGGTGAGTTAGGTGA
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+5106     aggtaaaacat     5116
+         |||||||||||
+5130     tccattttgta     5120
+
+AACCTCATAATTCACATGAAGGTAAAACAT...TGTTTTACCTAATGATGACACTCTACGTGT
+Accuracy = 11 / 11 = 1.0
+ 
+-------------------------------------- 
+ 
+15774    ataaagaact    15783
+         ||||||||||
+15800    tatttcttga    15791
+
+TCAAGGTCTAGTGGCTAGCATAAAGAACT...GTTCTTTATTATCAAAACAATGTTTTTAT
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+10981    aaaagaacaa    10990
+         ||||||||||
+11077    ttttcttgtt    11068
+
+TACTTTCCAAAGTGCAGTGAAAAGAACAA...TGTTCTTTTTTTTGTATGAAAATGCCTTT
+Accuracy = 10 / 10 = 1.0
+ 
+-------------------------------------- 
+ 
+29025    tgctgaggcttct    29037
+         ||| |||||||||
+29051    acggctccgaaga    29039
+
+CTGTCACTAAGAAATCTGCTGCTGAGGCTTCT...GAAGCCTCGGCAAAAACGTACTGCCACTAAAG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+27330    ctaactgagaata    27342
+         |||| ||||||||
+27357    gattaactcttat    27345
+
+TAAAAATTTATCTAAGTCACTAACTGAGAATA...ATTCTCAATTAGATGAAGAGCAACCAATGGAG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+26137    tcgacggttcatc    26149
+         ||| |||||||||
+26196    agcagccaagtag    26184
+
+CATGTCCAAATTCACACAATCGACGGTTCATC...ATGAACCGACGACGACTACTAGCGTGCCTTTG
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+24934    aactgtgatgttg    24946
+         ||||||| |||||
+24972    ttgacacaacaac    24960
+
+CAACACATTTGTGTCTGGTAACTGTGATGTTG...AACAACACAGTTTATGATCCTTTGCAACCTGA
+Accuracy = 12 / 13 = 0.9230769230769231
+ 
+-------------------------------------- 
+ 
+6268     acgtataaacca     6279
+         ||||||| ||||
+6297     tgcatatgtggt     6286
+
+CAATGCAACTAATAAAGCCACGTATAAACCA...GGTGTATACGTTGTCTTTGGAGCACAAAACC
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+26031    ctgtactcaact    26042
+         |||||||||| |
+26055    gacatgagttaa    26044
+
+CACTTCAGACTATTACCAGCTGTACTCAACT...ATTGAGTACAGACACTGGTGTTGAACATGTT
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+22818    tgattataatta    22829
+         | ||||||||||
+22913    attaatattaat    22902
+
+GGCAAACTGGAAAGATTGCTGATTATAATTA...AATTATAATTACCTGTATAGATTGTTTAGGA
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+22630    agaatcagcaac    22641
+         | ||||||||||
+22656    tattagtcgttg    22645
+
+TTATGCTTGGAACAGGAAGAGAATCAGCAAC...TTGCTGATTATTCTGTCCTATATAATTCCGC
+Accuracy = 11 / 12 = 0.9166666666666666
+ 
+-------------------------------------- 
+ 
+9324     tgtagatgctg     9334
+         | |||||||||
+9405     atatctacgac     9395
+
+TACCAGGAGTTTTCTGTGGTGTAGATGCTG...AGCATCTATAGTAGCTGGTGGTATTGTAGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+5793     aactttgtatt     5803
+         | |||||||||
+5847     tggaaacataa     5837
+
+AACATATAACTTCTAAAGAAACTTTGTATT...ATACAAAGGTCCTATTACGGATGTTTTCTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+5130     taatgatgaca     5140
+         ||||| |||||
+5214     attacgactgt     5204
+
+AAACATTTTATGTTTTACCTAATGATGACA...GTCAGCATTAAATCACACTAAAAAGTGGAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4852     agaggtgataa     4862
+         | |||||||||
+4923     tttccactatt     4913
+
+AGGTATAGAATTTCTTAAGAGAGGTGATAA...TATCACCTTTGACAATCTTAAGACACTTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4638     tttggaagaag     4648
+         ||| |||||||
+4749     aaatcttcttc     4739
+
+ATGTAACACATGGCTTAAATTTGGAAGAAG...TTCTTCTAAAACACCTGAAGAACATTTTAT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+4181     ctggtggcact     4191
+         ||| |||||||
+4231     gacaaccgtga     4221
+
+GTTATACCTACTAAAAAGGCTGGTGGCACT...GTGCCAACAGACAATTATATAACCACTTAC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+28210    agactttttag    28220
+         |||| ||||||
+28278    tctgtaaaatc    28268
+
+TGCGTTGTTCGTTCTATGAAGACTTTTTAG...TAAAATGTCTGATAATGGACCCCAAAATCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27762    aactttcatta    27772
+         || ||||||||
+27875    ttcaaagtaat    27865
+
+AAGAAAGACAGAATGATTGAACTTTCATTA...AATGAAACTTGTCACGCCTAAACGAACATG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+27250    ttattatgagg    27260
+         | |||||||||
+27312    attaatactcc    27302
+
+ATAGCAGAGATATTACTAATTATTATGAGG...CTCATAATTAAAAATTTATCTAAGTCACTA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26083    tcatctacaat    26093
+         ||||| |||||
+26107    agtagttgtta    26097
+
+GTTGAACATGTTACCTTCTTCATCTACAAT...TTGTTGATGAGCCTGAAGAACATGTCCAAA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+26065    ttgaacatgtt    26075
+         ||| |||||||
+26126    aacctgtacaa    26116
+
+TTGAGTACAGACACTGGTGTTGAACATGTT...ACATGTCCAAATTCACACAATCGACGGTTC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+24244    caaataccatt    24254
+         | |||||||||
+24290    ggttatggtaa    24280
+
+TGGTGCAGGTGCTGCATTACAAATACCATT...ATGGTATTGGAGTTACACAGAATGTTCTCT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23931    aacaccaccaa    23941
+         || ||||||||
+23961    ttttggtggtt    23951
+
+AAGTCAAACAAATTTACAAAACACCACCAA...TGGTGGTTTTAATTTTTCACAAATATTACC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+23613    acgtagtgtag    23623
+         || ||||||||
+23653    tgtatcacatc    23643
+
+CTAATTCTCCTCGGCGGGCACGTAGTGTAG...TACACTATGTCACTTGGTGCAGAAAATTCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22824    taattataaat    22834
+         ||||||||| |
+22913    attaatattaa    22903
+
+CTGGAAAGATTGCTGATTATAATTATAAAT...ATTATAATTACCTGTATAGATTGTTTAGGA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+22758    atttgtaatta    22768
+         |||| ||||||
+22834    taaatattaat    22824
+
+CTAATGTCTATGCAGATTCATTTGTAATTA...AATTATAAATTACCAGATGATTTTACAGGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+21161    tataaagataa    21171
+         ||||||||| |
+21201    atatttctagt    21191
+
+CTCTTGGAGGTTCCGTGGCTATAAAGATAA...GATCTTTATAAGCTCATGGGACACTTCGCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+20152    attataagaaa    20162
+         ||| |||||||
+20265    taagattcttt    20255
+
+GTAAAAACACAGTTCAATTATTATAAGAAA...TTCTTAGAATTAGCTATGGATGAATTCATT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18953    taatgcggctt    18963
+         |||||| ||||
+19001    attacgtcgaa    18991
+
+TTGGTGATGAACTGAAGATTAATGCGGCTT...AGCTGCATTATTAGCAGACAAATTCCCAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+18937    gtgatgaactg    18947
+         |||| ||||||
+19028    cacttcttgac    19018
+
+ATTGAATATCCTATAATTGGTGATGAACTG...AGTTCTTCACGACATTGGTAACCCTAAAGC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+17140    ctcgcatagtg    17150
+         ||| |||||||
+17192    gagtgtatcac    17182
+
+GCTCTCTACTACCCTTCTGCTCGCATAGTG...ACTATGTGAGAAGGCATTAAAATATTTGCC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+16778    ctttactggtt    16788
+         |||||||| ||
+16812    gaaatgacaaa    16802
+
+CACTTAACCGAAATTATGTCTTTACTGGTT...AACAGTAAAGTACAAATAGGAGAGTACACC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+15481    catcaggagat    15491
+         |||||| ||||
+15573    gtagtcatcta    15563
+
+GTTAAACCAGGTGGAACCTCATCAGGAGAT...TCTACTGATGGTAACAAAATTGCCGATAAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+15142    atagacagttt    15152
+         ||| |||||||
+15257    tatttgtcaaa    15247
+
+ATCTGTAGTACTATGACCAATAGACAGTTT...AACTGTTTATAGTGATGTAGAAAACCCTCA
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+14220    ttaacaaagcc    14230
+         |||||||| ||
+14253    aattgtttagg    14243
+
+GTCACATGTTGACACTGACTTAACAAAGCC...GATTTGTTAAAATATGACTTCACGGAAGAG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+13634    aattgattctt    13644
+         ||||| |||||
+13697    ttaacaaagaa    13687
+
+AGGACGAAGATGACAATTTAATTGATTCTT...AGAAACAATTTATAATTTACTTAAGGATTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11879    tactctcagtt    11889
+         |||||| ||||
+11907    atgagactcaa    11897
+
+AAGTGCACATCAGTAGTCTTACTCTCAGTT...ACTCAGAGTAGAATCATCATCTAAATTGTG
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+11753    cacccaagaat    11763
+         ||||||| |||
+11803    gtgggttgtta    11793
+
+AATTCACAGGGACTACTCCCACCCAAGAAT...TTGTTGGGTGTTGGTGGCAAACCTTGTATC
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+10478    atggttcatgt    10488
+         ||||| |||||
+10545    taccacgtaca    10535
+
+ATTAAGGGTTCATTCCTTAATGGTTCATGT...CATGCACCATATGGAATTACCAACTGGAGT
+Accuracy = 10 / 11 = 0.9090909090909091
+ 
+-------------------------------------- 
+ 
+9612     tactaatgat     9621
+         ||| ||||||
+9706     atgtttacta     9697
+
+TGTACTTGACATTTTATCTTACTAATGAT...TCATTTGTATTTCCACAAAGCATTTCTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9546     aacaccagtt     9555
+         |||||||| |
+9576     ttgtggtcca     9567
+
+CATTCACTGTACTCTGTTTAACACCAGTT...CCTGGTGTTTATTCTGTTATTTACTTGTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9544     ttaacaccag     9553
+         | ||||||||
+9578     atttgtggtc     9569
+
+GTCATTCACTGTACTCTGTTTAACACCAG...TGGTGTTTATTCTGTTATTTACTTGTACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+9320     gtggtgtaga     9329
+         |||||||| |
+9364     caccacattt     9355
+
+TCTTTACCAGGAGTTTTCTGTGGTGTAGA...TTACACCACTAATTCAACCTATTGGTGCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8858     tcgtgcctgg     8867
+         ||||||| ||
+8881     agcacggtcc     8872
+
+ACAAGAGAAGTGGGTTTTGTCGTGCCTGG...CTGGCACGATATTACGCACAACTAATGGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+860      agtgcattaa      869
+         ||||||| ||
+906      tcacgtactt      897
+
+CCTGATGGCTACCCTCTTGAGTGCATTAA...TCATGCACTTTGTCCGAACAACTGGACTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+8044     tacgttaata     8053
+         |||||||| |
+8076     atgcaatttt     8067
+
+AGTTAAAATGTTTGATGCTTACGTTAATA...TTTAACGTACCAATGGAAAAACTCAAAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7853     ataacactaa     7862
+         |||||| |||
+7886     tattgtaatt     7877
+
+TTAGACAACCTGAGAGCTAATAACACTAA...TAATGTTATAGTTTTTGATGGTAAATCAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7819     tctcattttg     7828
+         || |||||||
+7913     agtgtaaaac     7904
+
+TTATGAAAGACATTCTCTCTCTCATTTTG...AAAATGTGAAGAATCATCTGCAAAATCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7718     accagtcttc     7727
+         |||| |||||
+7761     tggtaagaag     7752
+
+AGACCAATAAATCCTACTGACCAGTCTTC...AAGAATGGTTCCATCCATCTTTACTTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7677     agacttgtca     7686
+         ||||| ||||
+7725     tctgaccagt     7716
+
+TTAGTGATGAAGTTGCGAGAGACTTGTCA...GACCAGTCTTCTTACATCGTTGATAGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7653     atttattagt     7662
+         ||||||| ||
+7710     taaataacca     7701
+
+CATTCTGTGCTGGTAGTACATTTATTAGT...CCAATAAATCCTACTGACCAGTCTTCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7469     acggttgtaa     7478
+         ||| ||||||
+7509     tgcaaacatt     7500
+
+AGTTATGTGCATGTTGTAGACGGTTGTAA...TACAAACGTAATAGAGCAACAAGAGTCGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+7330     gtacatttta     7339
+         ||||||| ||
+7416     catgtaagat     7407
+
+GTTTTTCAGCTATTTTGCAGTACATTTTA...AGAATGTACATCTTCTTTGCATCATTTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6802     tgtactttta     6811
+         ||||||| ||
+6822     acatgaagat     6813
+
+TACTTTATTGCTACAATTGTGTACTTTTA...AGAAGTACAAATTCTAGAATTAAAGCATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6656     atagtgtccc     6665
+         ||||| ||||
+6677     tatcataggg     6668
+
+CATGGTTTAGCTGCTGTTAATAGTGTCCC...GGATACTATAGCTAATTATGCTAAGCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6651     tgttaatagt     6660
+         ||||| ||||
+6730     acaatcatca     6721
+
+CTACTCATGGTTTAGCTGCTGTTAATAGT...CTACTAACATAGTTACACGGTGTTTAAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6580     actattaaga     6589
+         |||||||| |
+6660     tgataattgt     6651
+
+TGTAGACAATTCTAGTCTTACTATTAAGA...GTTAATAGTGTCCCTTGGGATACTATAGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6563     tagacaattc     6572
+         |||| |||||
+6607     atctattaag     6598
+
+GATCTAATGGCTGCTTATGTAGACAATTC...AATTATCTAGAGTATTAGGTTTGAAAACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6452     agtgtaatgt     6461
+         ||| ||||||
+6494     tcatattaca     6485
+
+ATACAGAAAGACGTTCTTGAGTGTAATGT...CATTATACTTAAACCAGCAAATAATAGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+630      tcttcgtaag      639
+         ||||| ||||
+731      agaagtattc      722
+
+TGGCTTACCGCAAGGTTCTTCTTCGTAAG...TTATGAAGATTTTCAAGAAAACTGGAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+6042     taattttaag     6051
+         ||| ||||||
+6136     attgaaattc     6127
+
+ATCCAAACGCAAGCTTCGATAATTTTAAG...TTAAAGTTACATTTTTCCCTGACTTAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+5903     ttacttataa     5912
+         || |||||||
+5970     aaagaatatt     5961
+
+ACAACAACCATAAAACCAGTTACTTATAA...TATAAGAAAGACAATTCTTATTTCACAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4937     cacttctttc     4946
+         ||||||| ||
+4959     gtgaagagag     4950
+
+ACCTTTGACAATCTTAAGACACTTCTTTC...AGAGAAGTGAGGACTATTAAGGTGTTTAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4843     tttcttaaga     4852
+         | ||||||||
+4938     acagaattct     4929
+
+TACACAACTAGGTATAGAATTTCTTAAGA...CTTAAGACACTTCTTTCTTTGAGAGAAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4441     gtggaaacta     4450
+         || |||||||
+4466     caactttgat     4457
+
+CAAATTAATGCCTGTCTGTGTGGAAACTA...AGTTTCAACTATACAGCGTAAATATAAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4384     aatttgcgag     4393
+         |||||||| |
+4427     ttaaacgcac     4418
+
+TCTTGGAACTGTTTCTTGGAATTTGCGAG...ACGCAAATTAATGCCTGTCTGTGTGGAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4307     agtgtaaaag     4316
+         | ||||||||
+4329     ttacattttc     4320
+
+GCAAAGACAGTGCTTAAAAAGTGTAAAAG...TTTTACATTCTACCATCTATTATCTCTAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+4241     taaccactta     4250
+         |||||| |||
+4274     attggtaaat     4265
+
+GTGCCAACAGACAATTATATAACCACTTA...AAATGGTTACACTGTAGAGGAGGCAAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3990     tctggaagaa     3999
+         |||||| |||
+4061     agacctactt     4052
+
+TTGAAGAAGTTACAACAACTCTGGAAGAA...TCATCCAGATTCTGCCACTCTTGTTAGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3909     aactgaaagt     3918
+         ||||||| ||
+3930     ttgacttcca     3921
+
+AGGAAGTTAAGCCATTTATAACTGAAAGT...CCTTCAGTTGAACAGAGAAAACAAGATGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3705     attattatca     3714
+         ||| ||||||
+3807     taaaaatagt     3798
+
+ACGAAGTTCTACTTGCACCATTATTATCA...GATAAAAATCTCTATGACAAACTTGTTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3681     tcagcacgaa     3690
+         ||||||| ||
+3734     agtcgtggtt     3725
+
+GTGCTTATGAAAATTTTAATCAGCACGAA...TGGTGCTGACCCTATACATTCTTTAAGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3602     actgtcttca     3611
+         | ||||||||
+3648     ttacagaagt     3639
+
+GGACACAATCTTGCTAAACACTGTCTTCA...GAAGACATTCAACTTCTTAAGAGTGCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+3480     aggagcctta     3489
+         || |||||||
+3501     tcatcggaat     3492
+
+AACATGGAGGAGGTGTTGCAGGAGCCTTA...AAGGCTACTAACAATGCCATGCAAGTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28944    tgacagattg    28953
+         |||||| |||
+29011    actgtcaaac    29002
+
+CTCTTGCTTTGCTGCTGCTTGACAGATTG...AAACTGTCACTAAGAAATCTGCTGCTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28868    caggcagcag    28877
+         || |||||||
+28945    gttcgtcgtc    28936
+
+AGTTCAAGAAATTCAACTCCAGGCAGCAG...TGCTGCTTGACAGATTGAACCAGCTTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+28797    gagcagaggc    28806
+         ||| ||||||
+28825    ctcttctccg    28816
+
+AAGGCTTCTACGCAGAAGGGAGCAGAGGC...CCTCTTCTCGTTCCTCATCACGTAGTCGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27828    ttattatctt    27837
+         |||| |||||
+27867    aatactagaa    27858
+
+TTCCTTGTTTTAATTATGCTTATTATCTT...AGATCATAATGAAACTTGTCACGCCTAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27817    tttaattatg    27826
+         ||| ||||||
+27872    aaagtaatac    27863
+
+CCTTTCTGCTATTCCTTGTTTTAATTATG...ATAATGAAACTTGTCACGCCTAAACGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+27665    ggaagttcaa    27674
+         | ||||||||
+27768    ctttcaagtt    27759
+
+AACTGTTCATCAGACAAGAGGAAGTTCAA...TGAACTTTCATTAATTGACTTCTATTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2667     ccttgcacct     2676
+         |||||||| |
+2768     ggaacgtgaa     2759
+
+ACACAGAAAAGTACTGTGCCCTTGCACCT...AGTGCAAGGTTACAAGAGTGTGAATATCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26533    caacggtact    26542
+         |||||||| |
+26552    gttgccatta    26543
+
+TTTTAGCCATGGCAGATTCCAACGGTACT...TTACCGTTGAAGAGCTTAAAAAGCTCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+26531    tccaacggta    26540
+         | ||||||||
+26554    aagttgccat    26545
+
+AATTTTAGCCATGGCAGATTCCAACGGTA...ACCGTTGAAGAGCTTAAAAAGCTCCTTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25598    gcaactagca    25607
+         ||||| ||||
+25684    cgttgctcgt    25675
+
+TAACCCTCAAAAAGAGATGGCAACTAGCA...GCTCGTTGCTGCTGGCCTTGAAGCCCCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+25379    cataaacgaa    25388
+         ||||||| ||
+25406    gtatttgttt    25397
+
+GGAGTCAAATTACATTACACATAAACGAA...TTGTTTATGAGAATCTTCACAATTGGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24973    tatgatcctt    24982
+         |||||| |||
+25039    atactaagaa    25030
+
+AATTGTCAACAACACAGTTTATGATCCTT...AGAATCATACATCACCAGATGTTGATTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24405    tcaagatgtg    24414
+         |||||| |||
+24515    agttctgcac    24506
+
+CAAGTGCACTTGGAAAACTTCAAGATGTG...ACGTCTTGACAAAGTTGAGGCTGAAGTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24322    aaattgattg    24331
+         |||||| |||
+24342    tttaaccaac    24333
+
+TGTTCTCTATGAGAACCAAAAATTGATTG...AACCAATTTAATAGTGCTATTGGCAAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24163    gaaatgattg    24172
+         ||| ||||||
+24212    cttcactaac    24203
+
+GCCACCTTTGCTCACAGATGAAATGATTG...AATCACTTCTGGTTGGACCTTTGGTGCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+24114    tgcacaaaag    24123
+         ||||| ||||
+24231    acgtggtttc    24222
+
+CTGCTAGAGACCTCATTTGTGCACAAAAG...TTTGGTGCAGGTGCTGCATTACAAATACC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23955    tggttttaat    23964
+         ||||||| ||
+23997    accaaaacta    23988
+
+CACCAATTAAAGATTTTGGTGGTTTTAAT...TCAAAACCAAGCAAGAGGTCATTTATTGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23858    ctttaactgg    23867
+         |||||| |||
+23947    gaaattaacc    23938
+
+TGTACACAATTAAACCGTGCTTTAACTGG...CAATTAAAGATTTTGGTGGTTTTAATTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23705    ccacaaattt    23714
+         |||||||| |
+23792    ggtgtttaca    23783
+
+AATAACTCTATTGCCATACCCACAAATTT...CATTTGTGGTGATTCAACTGAATGCAGCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23578    agttatcaga    23587
+         |||||| |||
+23692    tcaataatct    23683
+
+TGGTGCAGGTATATGCGCTAGTTATCAGA...CTAATAACTCTATTGCCATACCCACAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23270    ctgacactac    23279
+         ||||||| ||
+23348    gactgtggtg    23339
+
+CAATTTGGCAGAGACATTGCTGACACTAC...TGGTGTCAGTGTTATAACACCAGGAACAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2324     ctttgtgtgc     2333
+         ||||| ||||
+2406     gaaactcacg     2397
+
+CTTGTAAATAAATTTTTGGCTTTGTGTGC...CACTCAAAGGGATTGTACAGAAAGTGTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+23127    aactgtttgt    23136
+         |||| |||||
+23237    ttgaaaaaca    23228
+
+AACTTCTACATGCACCAGCAACTGTTTGT...CAAAAAGTTTCTGCCTTTCCAACAATTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2298     ctttaagctt     2307
+         ||||||| ||
+2368     gaaattcaaa     2359
+
+AGGAGAGTGTTCAGACATTCTTTAAGCTT...AACTTAAAGCCTTGAATTTAGGTGAAACA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22556    ttacaaactt    22565
+         ||| ||||||
+22589    aatttttgaa    22580
+
+ATTGTTAGATTTCCTAATATTACAAACTT...AGTTTTTAACGCCACCAGATTTGCATCTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+22494    aatctatcaa    22503
+         |||||| |||
+22547    ttagattgtt    22538
+
+CCTTCACTGTAGAAAAAGGAATCTATCAA...TGTTAGATTTCCTAATATTACAAACTTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+2212     aaatttatct     2221
+         |||||||| |
+2319     tttaaataaa     2310
+
+AGACGGTTGGGAAATTGTTAAATTTATCT...AATAAATTTTTGGCTTTGTGTGCTGACTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21936    tgttgttatt    21945
+         ||||||| ||
+22009    acaacaaaaa    22000
+
+TTGTTAATAACGCTACTAATGTTGTTATT...AAAACAACAAAAGTTGGATGGAAAGTGAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21406    ttccccttaa    21415
+         | ||||||||
+21426    atggggaatt    21417
+
+TTATTTGACATGAGTAAATTTCCCCTTAA...TAAGGGGTACTGCTGTTATGTCTTTAAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21386    tttatttgac    21395
+         || |||||||
+21460    aactaaactg    21451
+
+TTCAGTTGTCTTCCTATTCTTTATTTGAC...TCAAATCAATGATATGATTTTATCTCTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21351    aggaatacaa    21360
+         ||||| ||||
+21381    tccttctgtt    21372
+
+TGCAAATTACATATTTTGGAGGAATACAA...TGTCTTCCTATTCTTTATTTGACATGAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21275    aattggatgt    21284
+         |||||||| |
+21368    ttaacctaaa    21359
+
+CATCATCTGAAGCATTTTTAATTGGATGT...AATCCAATTCAGTTGTCTTCCTATTCTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21273    ttaattggat    21282
+         | ||||||||
+21370    acttaaccta    21361
+
+GTCATCATCTGAAGCATTTTTAATTGGAT...TCCAATTCAGTTGTCTTCCTATTCTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21216    ttcgcatggt    21225
+         ||||| ||||
+21308    aagcgcacca    21299
+
+TTATAAGCTCATGGGACACTTCGCATGGT...CCACGCGAACAAATAGATGGTTATGTCAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21130    aacaaaagct    21139
+         |||||| |||
+21239    ttgtttccga    21230
+
+TACATTTGTGGGTTTATACAACAAAAGCT...GCCTTTGTTACTAATGTGAATGCGTCATC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+21035    cattattagt    21044
+         |||| |||||
+21072    gtaaaaatca    21063
+
+CAGCTAATAAATGGGATCTCATTATTAGT...CTAAAAATGTTACAAAAGAAAATGACTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20507    tttattactt    20516
+         ||||||| ||
+20539    aaataataaa    20530
+
+GTGTGTGTTCTGTTATTGATTTATTACTT...AATAATAAAATCCCAAGATTTATCTGTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20224    aatttaaacc    20233
+         |||||| |||
+20299    ttaaatatgg    20290
+
+CAGAGTAGAAATTTACAAGAATTTAAACC...GTATAAATTAGAAGGCTATGCCTTCGAAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+20048    tacagaaggt    20057
+         |||||| |||
+20084    atgtctacca    20075
+
+CCCGTAATGGTGTTCTTATTACAGAAGGT...CCATCTGTAGGTCCCAAACAAGCTAGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19771    ttaatgtagc    19780
+         ||||||| ||
+19810    aattacaacg    19801
+
+AATAAAACAACATTACCTGTTAATGTAGC...CAACATTAAACCAGTACCAGAGGTGAAAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19494    catcatgcta    19503
+         ||||||| ||
+19541    gtagtacaat    19532
+
+AGGTGGTGCTGTCTGTAGACATCATGCTA...AACATGATGATCTCAGCTGGCTTTAGCTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19448    tgctacgtgt    19457
+         ||| ||||||
+19470    acgttgcaca    19461
+
+ATTATGTACCACTAAAGTCTGCTACGTGT...CACGTTGCAATTTAGGTGGTGCTGTCTGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19300    taaataaaca    19309
+         ||||| ||||
+19355    atttaattgt    19346
+
+GATGGTGGCAGTTTGTATGTAAATAAACA...GTTAATTTAAAACAATTACCATTTTTCTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+19124    aatagaagaa    19133
+         ||||||| ||
+19143    ttatcttatt    19134
+
+GTAGTGACAAAGCTTATAAAATAGAAGAA...TATTCTATTCTTATGCCACACATTCTGAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18668    tgatagacgt    18677
+         | ||||||||
+18751    aatatctgca    18742
+
+AGCGCACCTGTTGTCTATGTGATAGACGT...CGTCTATAATCCGTTTATGATTGATGTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18360    cagctaggtt    18369
+         || |||||||
+18393    gttgatccaa    18384
+
+TGGTACCAATTTACCTTTACAGCTAGGTT...ACCTAGTTGCTGTACCTACAGGTTATGTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18337    ctgttggtac    18346
+         |||| |||||
+18405    gacatccatg    18396
+
+TGTCATGCTACTAGAGAAGCTGTTGGTAC...TACCTACAGGTTATGTTGATACACCTAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+18118    tcagtgttga    18127
+         ||||| ||||
+18145    agtcaaaact    18136
+
+ACACAGGCACCTACACACCTCAGTGTTGA...CAAAACTGAAGGTTTATGTGTTGACATAC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17897    ctcttgtaat    17906
+         |||| |||||
+17937    gagaccatta    17928
+
+AAACCACTGAAACAGCTCACTCTTGTAAT...TTACCAGAGCAAAAGTAGGCATACTTTGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17538    gacatgttcc    17547
+         |||| |||||
+17559    ctgttcaagg    17550
+
+TATGAAAACTATAGGTCCAGACATGTTCC...GAACTTGTCGGCGTTGTCCTGCTGAAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+17144    catagtgtat    17153
+         ||||||| ||
+17188    gtatcacgta    17179
+
+TCTACTACCCTTCTGCTCGCATAGTGTAT...TGCACTATGTGAGAAGGCATTAAAATATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1708     gcttccacaa     1717
+         | ||||||||
+1733     caaaggtgtt     1724
+
+TATTTTGGCATCTTTTTCTGCTTCCACAA...TGTGGAAACTGTGAAAGGTTTGGATTATA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16520    tacatgtgtt    16529
+         |||| |||||
+16614    atgtccacaa    16605
+
+TTTTTGGTTTATATAAAAATACATGTGTT...ACACCTGTACTGAAAGACTCAAGCTTTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16457    acataaacca    16466
+         | ||||||||
+16514    tatatttggt    16505
+
+TGAGCTATTATTGTAAATCACATAAACCA...GGTTTATATAAAAATACATGTGTTGGTAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1636     aaagtcaaca     1645
+         ||||||| ||
+1665     tttcagtggt     1656
+
+TGAAATACTCCAAAAAGAGAAAGTCAACA...GGTGACTTTAAACTTAATGAAGAGATCGC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+16261    attcacagac    16270
+         ||| ||||||
+16373    taattgtctg    16364
+
+GGGGCTTGTGTTCTTTGCAATTCACAGAC...TCTGTTAATCCGTATGTTTGCAATGCTCC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15918    gtgtaccttc    15927
+         ||||||| ||
+15999    cacatggtag    15990
+
+TAAACAGGGTGATGATTATGTGTACCTTC...ATGGTACACTTATGATTGAACGGTTCGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15915    tatgtgtacc    15924
+         || |||||||
+16002    attcacatgg    15993
+
+AGTTAAACAGGGTGATGATTATGTGTACC...GTACACTTATGATTGAACGGTTCGTGTCT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15673    tttacgcata    15682
+         |||||||| |
+15692    aaatgcgttt    15683
+
+ACAGACTTTGTGAATGAGTTTTACGCATA...TTGCGTAAACATTTCTCAATGATGATACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15580    aaattgccga    15589
+         ||||||| ||
+15607    tttaacgcct    15598
+
+TTATCTACTGATGGTAACAAAATTGCCGA...CCGCAATTTACAACACAGACTTTATGAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15520    ttaacatttg    15529
+         |||||||| |
+15553    aattgtaacc    15544
+
+GCTTATGCTAATAGTGTTTTTAACATTTG...CAATGTTAATGCACTTTTATCTACTGATG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+15458    atatgttaaa    15467
+         | ||||||||
+15528    tttacaattt    15519
+
+TCATGTGTGGCGGTTCACTATATGTTAAA...TTAACATTTGTCAAGCTGTCACGGCCAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14984    ttatgattca    14993
+         ||| ||||||
+15073    aattctaagt    15064
+
+GGGGTAAGGCTAGACTTTATTATGATTCA...GAATCTTAAGTATGCCATTAGTGCAAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14860    aagttgttga    14869
+         | ||||||||
+14932    tccaacaact    14923
+
+CAACTACTATTTGTAGTTGAAGTTGTTGA...CAACAACCTAGACAAATCAGCTGGTTTTC
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+14486    agagctaggt    14495
+         ||||||| ||
+14531    tctcgataca    14522
+
+CAACTGGATACCACTTCAGAGAGCTAGGT...CATAGCTCTAGACTTAGTTTTAAGGAATT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13757    agacggtgac    13766
+         ||||| ||||
+13795    tctgcaactg    13786
+
+ACTTCTTTAAGTTTAGAATAGACGGTGAC...TCAACGTCTTACTAAATACACAATGGCAG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13752    agaatagacg    13761
+         || |||||||
+13829    tcgtatctgc    13820
+
+ACATGACTTCTTTAAGTTTAGAATAGACG...GTCTATGCTTTAAGGCATTTTGATGAAGG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13647    tttgtagtta    13656
+         || |||||||
+13682    aaccatcaat    13673
+
+CAATTTAATTGATTCTTACTTTGTAGTTA...AACTACCAACATGAAGAAACAATTTATAA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13422    ccgcgaaccc    13431
+         |||| |||||
+13477    ggcgtttggg    13468
+
+GCTGTAGTTGTGATCAACTCCGCGAACCC...GGTTTGCGGTGTAAGTGCAGCCCGTCTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13220    aatcctttgg    13229
+         |||||||| |
+13289    ttaggaaatc    13280
+
+GAAGCCAATATGGATCAAGAATCCTTTGG...TAAAGGATTTTGTGACTTAAAAGGTAAGT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+13218    agaatccttt    13227
+         | ||||||||
+13291    ttttaggaaa    13282
+
+CGGAAGCCAATATGGATCAAGAATCCTTT...AAGGATTTTGTGACTTAAAAGGTAAGTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+12385    gataatgatg    12394
+         ||||||| ||
+12411    ctattacaac    12402
+
+CACTATGCTTAGAAAGTTGGATAATGATG...AACATTATCAACAATGCAAGAGATGGTTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1224     catgaagtgt     1233
+         |||||||| |
+1256     gtacttcaaa     1247
+
+AAATGTGCCTTTCAACTCTCATGAAGTGT...AACTTCATGGCAGACGGGCGATTTTGTTA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11869    tcagtagtct    11878
+         |||||||| |
+11981    agtcatcata    11972
+
+GTCAGATGTAAAGTGCACATCAGTAGTCT...TACTACTGAAGCCTTTGAAAAAATGGTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11867    catcagtagt    11876
+         | ||||||||
+11983    gaagtcatca    11974
+
+ATGTCAGATGTAAAGTGCACATCAGTAGT...CTACTGAAGCCTTTGAAAAAATGGTTTCA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11487    ttctaactac    11496
+         || |||||||
+11512    aacattgatg    11503
+
+CTCTTATAATCTCTGTTACTTCTAACTAC...TAGTTACAACTGTCATGTTTTTGGCCAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+11401    aatgtcttga    11410
+         |||| |||||
+11457    ttaccgaact    11448
+
+GAGAGTGTGGACACTTATGAATGTCTTGA...CAAGCCATTTCCATGTGGGCTCTTATAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1123     agggttgaaa     1132
+         || |||||||
+1223     tctcaacttt     1214
+
+AATCAAGACTATTCAACCAAGGGTTGAAA...TTCAACTCTCATGAAGTGTGATCATTGTG
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+1112     ctattcaacc     1121
+         || |||||||
+1134     gaaaagttgg     1125
+
+TTAAATTCCATAATCAAGACTATTCAACC...GTTGAAAAGAAAAAGCTTGATGGCTTTAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10970    aaagtgcagt    10979
+         |||||| |||
+11038    tttcacttca    11029
+
+TGCTCAGGTGTTACTTTCCAAAGTGCAGT...CTTCACTTTTAGTTTTAGTCCAGAGTACT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10870    caaaatggta    10879
+         ||| ||||||
+10899    gttataccat    10890
+
+TTCATTAAAAGAATTACTGCAAAATGGTA...ACCATATTGGGTAGTGCTTTATTAGAAGA
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10756    atgaagtaca    10765
+         |||||| |||
+10855    tacttcgtgt    10846
+
+TGACTTTAACCTTGTGGCTATGAAGTACA...GTGCTTCATTAAAAGAATTACTGCAAAAT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 
+10456    actattaagg    10465
+         || |||||||
+10482    tggtaattcc    10473
+
+TGCTATGAGGCCCAATTTCACTATTAAGG...CTTAATGGTTCATGTGGTAGTGTTGGTTT
+Accuracy = 9 / 10 = 0.9
+ 
+-------------------------------------- 
+ 

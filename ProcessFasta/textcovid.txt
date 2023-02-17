@@ -1,0 +1,80 @@
+gb:MT797634|Organism:Human coronavirus 229E|Strain Name:HK20-42|Segment:null|Host:Human
+
+12543    gggctctagt    12552
+         ||||||||||
+12570    cccgagatca    12561
+
+14183    tagctactatg    14193
+         |||||||||||
+14239    atcgatgatac    14229
+
+20431    tttaattgca    20440
+         ||||||||||
+20471    aaattaacgt    20462
+
+25002    gacaatgtca    25011
+         ||||||||||
+25038    ctgttacagt    25029
+
+
+
+gb:MT008022|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI1|Segment:null|Host:Human
+
+
+
+
+gb:MT008023|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019 nCoV/Italy-INMI2|Segment:null|Host:Human
+
+
+
+
+gb:MN988668|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019-nCoV WHU01|Segment:null|Host:Human
+
+
+5106     aggtaaaacat     5116
+         |||||||||||
+5130     tccattttgta     5120
+
+5357     cttattacag     5366
+         ||||||||||
+5424     gaataatgtc     5415
+
+5744     acactggtaa     5753
+         ||||||||||
+5763     tgtgaccatt     5754
+
+15774    ataaagaact    15783
+         ||||||||||
+15800    tatttcttga    15791
+
+22632    aatcagcaac    22641
+         ||||||||||
+22654    ttagtcgttg    22645
+
+26031    ctgtactcaa    26040
+         ||||||||||
+26055    gacatgagtt    26046
+
+
+gb:LC522972|Organism:Severe acute respiratory syndrome coronavirus 2|Strain Name:2019-nCoV/Japan/KY/V-029/2020|Segment:null|Host:Human
+
+
+5355     cttattacag     5364
+         ||||||||||
+5422     gaataatgtc     5413
+
+5742     acactggtaa     5751
+         ||||||||||
+5761     tgtgaccatt     5752
+
+15772    ataaagaact    15781
+         ||||||||||
+15798    tatttcttga    15789
+
+22630    aatcagcaac    22639
+         ||||||||||
+22652    ttagtcgttg    22643
+
+26029    ctgtactcaa    26038
+         ||||||||||
+26053    gacatgagtt    26044
